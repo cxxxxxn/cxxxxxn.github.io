@@ -1,0 +1,47 @@
+.navbar{
+    margin-top: 6vh;
+}
+
+.navbar-brand{
+    font-size: 18px;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.nav-item{
+    padding:10px 15px;
+    color: #777;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.nav-item:hover{
+    color: #333;
+}
+
+.nav-toggle-vertical{
+    margin-right: -6px; 
+}
+
+.nav-toggle-button{
+    fill: #707070;
+    margin-top: 1px; 
+}
+
+.nav-toggle-button:hover{
+    fill: rgb(234,169,68);
+    margin-top: 1px; 
+}
+
+/* small devices */
+@media only screen and (max-width: 768px) {
+    .nav-collapse{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .nav-toggle{
+        display: none;
+    }
+}
