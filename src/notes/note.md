@@ -1,30 +1,44 @@
-# REACT
-
-## The rode to learn react 笔记
 ## 1-React简介
 ### · npm
 1. 初始化
-`npm init`
-初始化成默认值
-`npm init -y`
+   
+    `npm init`
+
+    初始化成默认值
+
+    `npm init -y`
+
 2. 安装本地包
-`npm install <package>`
-安装全局包
-`npm install -g <package>`
-一条命令安装多个包
-`npm install <package1> <package2>`
+   
+    `npm install <package>`
+
+    安装全局包
+
+    `npm install -g <package>`
+
+    一条命令安装多个包
+
+    `npm install <package1> <package2>`
+
 3. 删除包
-`npm uninstall <package>`
-手工删除包
-`which create-react-app`
-`-> /usr/local/bin/create-react-app`
-`rm -rf /usr/local/bin/create-react-app`
+   
+    `npm uninstall <package>`
+
+    手工删除包
+
+    ```
+    which create-react-app
+    -> /usr/local/bin/create-react-app
+    rm -rf /usr/local/bin/create-react-app
+    ```
 
 ### · 搭建React应用
 使用 [create-react-app](https://www.html.cn/create-react-app/docs/getting-started/) 来创建应用。
 
 创建一个名字为christy的项目
+
 `npx create-react-app my-app`
+
 *create-react-app* 创建的是一个npm项目，还附带了下面npm脚本
 
     //启动应用

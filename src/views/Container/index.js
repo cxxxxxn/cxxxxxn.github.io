@@ -5,19 +5,15 @@ import Home from '../Home';
 import Note from '../Note';
 import Project from '../Project';
 
-const contentMap = {
-    "home": <Home></Home>,
-    "note": <Note></Note>,
-    "project": <Project></Project>
-}
-
 export default class Container extends Component {
 
 	render(){
-        const {content} = this.props;
+        const {content, noteIndex, changeNoteIndex} = this.props;
 		return (
 			<div className="container">
-                {contentMap[content]}
+                {content === "home" && <Home></Home>}
+                {content === "note" && <Note noteIndex={noteIndex} changeNoteIndex={changeNoteIndex}></Note>}
+                {content === "project" && <Project></Project>}
 			</div>
 		  );
 	}

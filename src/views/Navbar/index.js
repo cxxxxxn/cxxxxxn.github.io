@@ -10,7 +10,8 @@ export default class Navbar extends Component {
         super(props);
         this.state = {
             folding: true,
-            content: 'home'
+            content: 'home',
+            noteIndex: -1
         };
     }
 
@@ -26,7 +27,14 @@ export default class Navbar extends Component {
     changeContent = (content) => {
         this.setState({
             content,
-            folding: true
+            folding: true,
+            noteIndex: -1
+        });
+    }
+
+    changeNoteIndex = (noteIndex) => {
+        this.setState({
+            noteIndex
         });
     }
 
@@ -59,7 +67,7 @@ export default class Navbar extends Component {
                         </div>
                     </Col>
                 </Row>
-                <Container content={this.state.content}/>
+                <Container content={this.state.content} noteIndex={this.state.noteIndex} changeNoteIndex={this.changeNoteIndex}/>
 			</div>
 		  );
 	}
