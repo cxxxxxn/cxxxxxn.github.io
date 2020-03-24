@@ -1,22 +1,18 @@
 import React, { Component } from 'react';
-import {Row, Col } from 'react-flexbox-grid';
 import './index.css';
+import projectList from '../../data/projectList'
+import ProjectInfo from './ProjectInfo';
 
 export default class Project extends Component {
-
-    constructor(props){
-        super(props);
-        this.state = {
-            
-        };
-    }
 
 	render(){
 		return (
 			<div className="project">
-                <Row center="xs">
-                    <Col xsOffset={2} xs={8} className="">project</Col>
-                </Row>
+                {projectList.map((project, index)=>{
+                    return <a key={"project-"+project.name} target="_blank" href={project.url} rel="noopener noreferrer">
+                        <ProjectInfo project={project}/>
+                    </a>;
+                })}
 			</div>
 		  );
 	}

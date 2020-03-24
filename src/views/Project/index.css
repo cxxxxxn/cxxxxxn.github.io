@@ -1,3 +1,33 @@
 .project{
     height: 75vh;
+    margin-top: 20px;
+}
+
+.projectinfo{
+    border: 1px solid #eee;
+    cursor: pointer;
+}
+
+.projectinfo:hover{
+    border-color: rgb(234,169,68);
+}
+
+.projectinfo-title{
+    margin-top: 30px; 
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.projectinfo-time{
+    margin-top: 0px; 
+    font-size: 14px;
+    color: #777;
+}
+
+.projectinfo-desc{
+    margin-bottom: 30px; 
+    margin-top: 30px; 
+    color: black;
+    padding-left:10px;
+    padding-right: 10px; 
 }

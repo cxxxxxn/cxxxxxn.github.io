@@ -1,31 +1,19 @@
 ## 1-React简介
 ### · npm
 1. 初始化
-   
     `npm init`
-
     初始化成默认值
-
     `npm init -y`
 
 2. 安装本地包
-   
-    `npm install <package>`
-
-    安装全局包
-
-    `npm install -g <package>`
-
-    一条命令安装多个包
-
-    `npm install <package1> <package2>`
-
+`npm install <package>`
+安装全局包
+`npm install -g <package>`
+一条命令安装多个包
+`npm install <package1> <package2>`
 3. 删除包
-   
-    `npm uninstall <package>`
-
-    手工删除包
-
+`npm uninstall <package>`
+手工删除包
     ```
     which create-react-app
     -> /usr/local/bin/create-react-app
@@ -33,14 +21,14 @@
     ```
 
 ### · 搭建React应用
-使用 [create-react-app](https://www.html.cn/create-react-app/docs/getting-started/) 来创建应用。
+1. 使用 [create-react-app](https://www.html.cn/create-react-app/docs/getting-started/) 来创建应用。
 
-创建一个名字为christy的项目
+    创建一个名字为christy的项目
+    `npx create-react-app my-app`
 
-`npx create-react-app my-app`
+    *create-react-app* 创建的是一个npm项目，还附带了下面npm脚本
 
-*create-react-app* 创建的是一个npm项目，还附带了下面npm脚本
-
+    ```
     //启动应用
     npm start
     //运行所有测试
@@ -49,9 +37,10 @@
     npm run build
     //逃生舱，移除掉create-react-app并拿回控制权。会复制所有的配置和依赖到package.json中，同时创建一个新的config/文件夹。
     npm run eject
+    ```
 
 ### · JSX
-理解*组件 class component*，*元素 element*，*实例 instance*.
+1. 理解*组件 class component*，*元素 element*，*实例 instance*.
 - 组件
 ```javascript
     import React, { Component } from 'react';
@@ -75,7 +64,7 @@
     <App />
 ```
 
-JSX允许在JavaScript中混入HTML结构。
+2. JSX允许在JavaScript中混入HTML结构。
 - 可以使用花括号{} 引入变量
 - 驼峰命名 className
 - 使用map函数讲一个列表转换成一组HTML元素
@@ -140,12 +129,14 @@ ReactDOM.render( )可以被使用多次，但在纯React的应用中，只会使
     robin.getName();
 ```
 
-React component 暴露出的方法都是公共方法。其中有一个方法必须被重写，就是render();
+React component 暴露出的方法都是公共方法。其中有一个方法必须被重写，就是render()。
 
 
 ## 2-React基础
 ### · 组件内部状态
 组件内部状态（局部状态），允许你保存、修改和删除存储在组件内部的属性。
+
+- props
 构造函数初始化组件的状态。
 ```javascript
     class App extends Component{
@@ -303,7 +294,6 @@ children就是元素标签内包含的元素，可以指定children显示在哪�
         );
     };
 ```
-![显示结果](figure/test1.png)
 
 ### · ES5和ES6的一些不同
 - 数组或字符串中是否含有pattern

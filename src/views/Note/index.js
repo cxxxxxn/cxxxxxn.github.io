@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import {Row, Col } from 'react-flexbox-grid';
 import './index.css';
 
-import noteList from '../../notes/noteList'
+import noteList from '../../data/noteList'
 import NoteDetail from '../NoteDetail';
+import NoteInfo from './NoteInfo';
 
 export default class Note extends Component {
 
@@ -19,7 +19,9 @@ export default class Note extends Component {
 		return (
 			<div className="note">
                 {noteIndex === -1 && noteList.map((note, index)=>{
-                    return <div key={"note-"+note.name} onClick={()=>{changeNoteIndex(index)}}>{note.name}</div>;
+                    return <div key={"note-"+note.name} onClick={()=>{changeNoteIndex(index)}}>
+                        <NoteInfo note={note}/>
+                    </div>;
                 })}
                 {noteIndex > -1 && <NoteDetail note={noteList[noteIndex]}></NoteDetail>}
 			</div>

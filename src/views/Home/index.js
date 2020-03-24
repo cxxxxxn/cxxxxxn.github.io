@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Row, Col } from 'react-flexbox-grid';
+import {Row,} from 'react-flexbox-grid';
 import avatar from '../../imgs/avatar.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
@@ -7,13 +7,6 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import './index.css';
 
 export default class Home extends Component {
-
-    constructor(props){
-        super(props);
-        this.state = {
-            
-        };
-    }
 
 	render(){
 		return (
@@ -30,7 +23,7 @@ export default class Home extends Component {
                 <div className="home-block"></div>
                 <div className="home-block"></div>
                 <div className="home-block"></div>
-                <a target="_blank" href="https://github.com/cxxxxxn">
+                <a target="_blank" href="https://github.com/cxxxxxn" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faGithub} className="fa-2x github"/>
                 </a>
                 <div className="home-block"></div>
