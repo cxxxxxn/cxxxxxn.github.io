@@ -32,32 +32,37 @@ p img{
     display: flex;
 }
 
-#content {
+#note-content {
     font-family: "Microsoft YaHei",  'sans-serif';
     font-size: 16px;
     line-height: 30px;
+    text-align: left;
 }
 
-#content .desc ul,#content .desc ol {
+#note-content .desc ul,#note-content .desc ol {
     color: #333333;
     margin: 1.5em 0 0 25px;
 }
 
-#content .desc h1, #content .desc h2 {
+#note-content .desc h1, #note-content .desc h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
 }
 
-#content .desc a {
+#note-content .desc a {
     color: #009a61;
 }
 
 
 .noteDetail{
-    border: 1px solid #eee;
     margin-top: 20px; 
+    padding-left: 8px;
+    padding-right: 8px; 
 }
-
+.article{
+    border: 1px solid #eee;
+    padding: 25px;
+}
 .article-title{
     margin-top: 30px; 
     margin-bottom: 10px; 
@@ -67,4 +72,31 @@ p img{
     margin-top: 0px; 
     font-size: 14px;
     color: #777;
+}
+
+.article-navbar{
+    border: 1px solid #eee;
+    position: fixed;
+    width: 100%;
+    text-align: left;
+}
+
+.article-navbar-title{
+    margin-left: 0.6em;
+    font-weight: 400; 
+    font-size: 17px;
+    color: rgb(234,169,68);
+}
+
+/* small devices */
+@media only screen and (max-width: 991px) {
+    .big-device{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .small-device{
+        display: none;
+    }
 }
