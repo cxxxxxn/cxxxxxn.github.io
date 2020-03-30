@@ -6,11 +6,9 @@ export class MarkdownNavbar extends Component {
         source: '',
         ordered: false,
         headingTopOffset: 0,
-        updateHashAuto: true,
         declarative: false,
         className: '',
         onNavItemClick: () => {},
-        onHashChange: () => {},
     };
 
     constructor(props) {
@@ -27,7 +25,6 @@ export class MarkdownNavbar extends Component {
             this.addTargetTimeout = setTimeout(() => {
             this.initHeadingsId();
             document.addEventListener('scroll', this.winScroll, false);
-            window.addEventListener('hashchange', this.winHashChange, false);
         }, 500);
     }
 
@@ -67,7 +64,6 @@ export class MarkdownNavbar extends Component {
             clearTimeout(this.scrollTimeout);
         }
         document.removeEventListener('scroll', this.winScroll, false);
-        window.removeEventListener('hashchange', this.winHashChange, false);
     }
 
     getNavStructure() {
@@ -147,11 +143,7 @@ export class MarkdownNavbar extends Component {
     }
 
     initHeadingsId() {
-        const headingId = decodeURIComponent(
-        this.props.declarative
-            ? window.location.hash.replace(/^#/, '').trim()
-            : (window.location.hash.match(/heading-\d+/g) || [])[0]
-        );
+        const headingId = decodeURIComponent('');
 
         this.getNavStructure().forEach(t => {
         const headings = document.querySelectorAll(`h${t.level}`);
@@ -160,9 +152,7 @@ export class MarkdownNavbar extends Component {
             .find(h => h.innerText === t.text && (!h.dataset || !h.dataset.id));
 
         if (curHeading) {
-            curHeading.dataset.id = this.props.declarative
-            ? t.text
-            : `heading-${t.index}`;
+            curHeading.dataset.id = `heading-${t.index}`;
 
             if (headingId && headingId === curHeading.dataset.id) {
             this.scrollToTarget(headingId);
@@ -188,7 +178,7 @@ export class MarkdownNavbar extends Component {
             );
         if (curHeading) {
             headingList.push({
-            dataId: this.props.declarative ? t.text : `heading-${t.index}`,
+            dataId: `heading-${t.index}`,
             listNo: t.listNo,
             offsetTop: curHeading.offsetTop,
             });
@@ -198,54 +188,31 @@ export class MarkdownNavbar extends Component {
         return headingList;
     }
 
-    getCurrentHashValue = () =>
-        decodeURIComponent(window.location.hash.replace(/^#/, ''));
-
     winScroll = () => {
         if (this.scrollEventLock) return;
 
         const scrollTop =
-        window.pageYOffset ||
-        document.documentElement.scrollTop ||
-        document.body.scrollTop ||
-        0;
+            window.pageYOffset ||
+            document.documentElement.scrollTop ||
+            document.body.scrollTop ||
+            0;
 
         const newHeadingList = this.getHeadingList().map(h => ({
-        ...h,
-        distanceToTop: Math.abs(
-            scrollTop + this.props.headingTopOffset - h.offsetTop
-        ),
-        }));
+            ...h,
+            distanceToTop: Math.abs(
+                scrollTop + this.props.headingTopOffset - h.offsetTop
+            ),
+            }));
         const distanceList = newHeadingList.map(h => h.distanceToTop);
         const minDistance = Math.min(...distanceList);
         const curHeading = newHeadingList.find(
-        h => h.distanceToTop === minDistance
+            h => h.distanceToTop === minDistance
         );
 
-        if (this.props.updateHashAuto) {
-        // Hash changing callback
-        if (curHeading.dataId !== this.getCurrentHashValue()) {
-            this.props.onHashChange(curHeading.dataId, this.getCurrentHashValue());
-        }
-
-        this.updateHash(curHeading.dataId);
-        }
         this.setState({
             currentListNo: curHeading.listNo,
         });
     };
-
-    winHashChange = () => {
-        this.scrollToTarget(this.getCurrentHashValue());
-    };
-
-    updateHash(value) {
-        window.history.replaceState(
-        {},
-        '',
-        `${window.location.pathname}${window.location.search}#${value}`
-        );
-    }
 
     render() {
         const tBlocks = this.getNavStructure().map(t => {
@@ -255,38 +222,28 @@ export class MarkdownNavbar extends Component {
 
             return (
                 <div
-                className={cls}
-                onClick={evt => {
-                    const currentHash = this.props.declarative
-                    ? t.text
-                    : `heading-${t.index}`;
+                    className={cls}
+                    onClick={evt => {
+                        const currentHash = `heading-${t.index}`;
 
-                    // Avoid execution the callback `onHashChange` when clicking current nav item
-                    if (t.listNo !== this.state.currentListNo) {
-                        // Hash changing callback
-                        this.props.onHashChange(currentHash, this.getCurrentHashValue());
-                    }
-
-                    // Nav item clicking callback
-                    this.props.onNavItemClick(evt, evt.target, currentHash);
-
-                    this.updateHash(currentHash);
-                    this.scrollToTarget(currentHash);
-                    this.setState({
-                        currentListNo: t.listNo,
-                    });
-                }}
-                key={`title_anchor_${t.index}`}>
-                {this.props.ordered ? <small>{t.listNo}</small> : null}
-                {t.text}
+                        // Nav item clicking callback
+                        this.props.onNavItemClick(evt, evt.target, currentHash);
+                        this.scrollToTarget(currentHash);
+                        this.setState({
+                            currentListNo: t.listNo,
+                        });
+                    }}
+                    key={`title_anchor_${t.index}`}>
+                    {this.props.ordered ? <small>{t.listNo}</small> : null}
+                    {t.text}
                 </div>
             );
         });
 
         return (
-        <div className={`markdown-navigation ${this.props.className}`}>
-            {tBlocks}
-        </div>
+            <div className={`markdown-navigation ${this.props.className}`}>
+                {tBlocks}
+            </div>
         );
     }
 }

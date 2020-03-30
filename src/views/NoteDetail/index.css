@@ -1,41 +1,69 @@
 /*对 markdown 样式的补充*/
 pre {
     display: block;
-    padding: 10px;
     margin: 0 0 10px;
     font-size: 14px;
-    line-height: 1.42857143;
+    line-height: 1.4;
     color: #abb2bf;
-    background: #282c34;
+    background: #f7f7f734;
     word-break: break-all;
     word-wrap: break-word;
     overflow: auto;
-}
-h1,h2,h3,h4,h5,h6{
-    margin-top: 1em;
-    /* margin-bottom: 1em; */
-}
-strong {
-    font-weight: bold;
+    margin-left: -6px;
 }
 
-p > code:not([class]) {
+pre ol {
+    list-style: none;
+    margin-left: 30px;
+    padding: 10px;
+}
+pre li {
+    position: relative;
+}
+
+pre .line-num {
+    position: absolute;
+    top: 0;
+    width: 25px;
+    height: 100%;
+    margin-left: -35px; 
+    background-color: #eff2f3;
+    text-align: right;
+    padding-right: 10px;
+    font-weight: 500;
+}
+    
+/* pre b.name {
+    position: absolute;
+    top: 2px;
+    right: 12px;
+    z-index: 10;
+    color: #999;
+    pointer-events: none;
+} */
+
+#note-content h1,h2,h3,h4,h5,h6{
+    margin-top: 1em;
+}
+#note-content strong {
+    font-weight: 500;
+}
+
+#note-content p > code:not([class]) {
     padding: 2px 4px;
     font-size: 90%;
     color: #c7254e;
     background-color: #f9f2f4;
     border-radius: 4px;
 }
-p img{
-    /* 图片居中 */
+#note-content p img{
     margin: 0 auto;
     display: flex;
 }
 
 #note-content {
-    font-family: "Microsoft YaHei",  'sans-serif';
-    font-size: 16px;
-    line-height: 30px;
+    font-size: 14px;
+    line-height: 24px;
     text-align: left;
 }
 
@@ -47,6 +75,10 @@ p img{
 #note-content .desc h1, #note-content .desc h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
+}
+
+#note-content h2, #note-content h3{
+    font-weight: 400;
 }
 
 #note-content .desc a {
@@ -76,16 +108,21 @@ p img{
 
 .article-navbar{
     border: 1px solid #eee;
-    position: fixed;
-    width: 100%;
     text-align: left;
+    background: #fff;
+}
+
+.article-navbar-stick{
+    position: fixed;
+    top: 8px;
+    width: 16.6%;
 }
 
 .article-navbar-title{
-    margin-left: 0.6em;
+    margin-left: 1.4em;
     font-weight: 400; 
     font-size: 17px;
-    color: rgb(234,169,68);
+    color: #ff9234;
 }
 
 /* small devices */

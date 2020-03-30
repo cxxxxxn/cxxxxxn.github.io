@@ -10,7 +10,18 @@
 }
 
 .noteinfo:hover{
-    border-color: rgb(234,169,68);
+    border-color: #ff9234;
+}
+.noteinfo:hover .noteinfo-title{
+    color: #ff9234;
+    /* text-decoration-line: underline;
+    text-decoration-style: wavy; */
+}
+.noteinfo:hover .noteinfo-time{
+    color: #ffb385;
+}
+.noteinfo:hover .noteinfo-desc{
+    color: #777;
 }
 
 .noteinfo-title{

@@ -17,12 +17,12 @@
 
 .markdown-navigation .title-anchor:hover,
 .markdown-navigation .title-anchor.active {
-  background-color: #f8f8f8;
+  background-color: #feffdf;
   text-decoration: inherit;
 }
 
 .markdown-navigation .title-anchor.active {
-  color: rgb(234,169,68);
+  color: #ff9234
 }
 
 .markdown-navigation .title-anchor small {
@@ -40,14 +40,14 @@
   color: #333;
   font-size: 1em;
   padding-left: 0.8em;
-  font-weight: normal;
+  font-weight: 400;
 }
 
 .markdown-navigation .title-level3 {
   color: #666;
-  font-size: 0.8em;
-  padding-left: 1.2em;
-  font-weight: normal;
+  font-size: .9em;
+  padding-left: 1.6em;
+  font-weight: 400;
 }
 
 .markdown-navigation .title-level4 {

@@ -45,7 +45,7 @@
 - 组件
 ```javascript
     import React, { Component } from 'react';
-
+    
     class App extents Component{
         render(){
             var hello = "Hello World!";
@@ -115,6 +115,7 @@ ReactDOM.render( )可以被使用多次，但在纯React的应用中，只会使
 ```
 
 ### · ES6 类
+- React component 暴露出的方法都是公共方法。其中有一个方法必须被重写，就是render()。
 ```javascript
     class Developer{
         constructor(firstname, lastname){
@@ -130,8 +131,6 @@ ReactDOM.render( )可以被使用多次，但在纯React的应用中，只会使
     const robin = new Developer('Robin', 'Wieruch');
     robin.getName();
 ```
-
-React component 暴露出的方法都是公共方法。其中有一个方法必须被重写，就是render()。
 
 
 ## 2-React基础
@@ -204,6 +203,7 @@ state可以通过this绑定在类上，可以在整个组件内访问到state。
         [key]: 'Christy',
     }
 ```
+
 ### · 绑定
 绑定很重要，因为类方法不自动绑定this到实例上
 ```javascript
@@ -233,6 +233,7 @@ ES6箭头函数可以自动绑定
         );
     };
 ```
+
 ### · 事件处理
 当使用`onClick={doSomething()}`时，doSomething()函数会在浏览器打开程序时立刻执行。监听表达式是函数执行的返回值。
 使用`onClick={doSomething}`时，会在点击按钮时执行。
@@ -331,19 +332,20 @@ children就是元素标签内包含的元素，可以指定children显示在哪�
   - static getDerivedStateFromError 从错误中获取 state。
   - componentDidCatch(err, info) 捕获错误并进行处理。
 
-_(* is not recommended for use, 17版本将会删除)_
-_(^ v16.3之后版本的生命周期)_
+  _(* is not recommended for use, 17版本将会删除)_
+  _(^ v16.3之后版本的生命周期)_
 
-__constructor__ 只有在组件实例化并插入DOM中的时候才会被调用。组件实例化的过程称作组件的挂载（mount）。
-__static getDerivedStateFromErro(nextProps, prevState)__ 参数 nextProps 是新接收的 props，prevState 是当前的 state。返回值（对象）将用于更新 state，如果不需要更新则需要返回 null。
-__render__ 也会在挂载的过程中被调用，当组件更新的时候也会被调用。每当组件的状态state或属性props改变是，都会被调用。
-__componentDidMount__ 在组件被渲染到DOM树之后被调用的。这是发起异步请求去API获取数据的绝佳时期，获取的数据将被保存在内部组件的状态中然后在render生命周期中展示出来。
-__shouldComponentUpdate(nextProps, nextState)__ 在一个更新的生命周期内，组件和子组件将更具该方法返回的布尔值决定是否重新渲染，避免不必要的渲染。
-__getSnapShotBeforeUpdate(prevProps, prevState)__ 返回值称为一个快照（snapshot），如果不需要 snapshot，则必须显示的返回 null —— 因为返回值将作为 componentDidUpdate() 的第三个参数使用。所以这个函数必须要配合 componentDidUpdate() 一起使用。
-__componentDidUpdate(prevPros, prevState, snapshot)__ 比较少用
-__componentWillUnmount__ 组件销毁前调用,取消定时器,取消事件绑定,取消网络请求
+- 具体总用
+    - __constructor__ 只有在组件实例化并插入DOM中的时候才会被调用。组件实例化的过程称作组件的挂载（mount）。
+    - __static getDerivedStateFromErro(nextProps, prevState)__ 参数 nextProps 是新接收的 props，prevState 是当前的 state。返回值（对象）将用于更新 state，如果不需要更新则需要返回 null。
+    - __render__ 也会在挂载的过程中被调用，当组件更新的时候也会被调用。每当组件的状态state或属性props改变是，都会被调用。
+    - __componentDidMount__ 在组件被渲染到DOM树之后被调用的。这是发起异步请求去API获取数据的绝佳时期，获取的数据将被保存在内部组件的状态中然后在render生命周期中展示出来。
+    - __shouldComponentUpdate(nextProps, nextState)__ 在一个更新的生命周期内，组件和子组件将更具该方法返回的布尔值决定是否重新渲染，避免不必要的渲染。
+    - __getSnapShotBeforeUpdate(prevProps, prevState)__ 返回值称为一个快照（snapshot），如果不需要 snapshot，则必须显示的返回 null —— 因为返回值将作为 componentDidUpdate() 的第三个参数使用。所以这个函数必须要配合 componentDidUpdate() 一起使用。
+    - __componentDidUpdate(prevPros, prevState, snapshot)__ 比较少用
+    - __componentWillUnmount__ 组件销毁前调用,取消定时器,取消事件绑定,取消网络请求
 
-<u>setState可以在装载过程的componentDidMount中调用；在更新过程中的componentDidUpdate中调用</u>
+  <u>setState可以在装载过程的componentDidMount中调用；在更新过程中的componentDidUpdate中调用</u>
 
 ### · 改变对象
 React拥护不可变的数据结构，因此不该改变对象（或直接改变状态）。更好的做法是基于现在拥有的资源来创建一个新的对象。
@@ -377,14 +379,15 @@ React拥护不可变的数据结构，因此不该改变对象（或直接改变
     //可以代替上面的Object.assign()
     const updatedResult = {...this.state.result, updateHits};
 ```
+
 ### · 条件渲染
-方法一：三元运算符
+- 方法一：三元运算符
 ```javascript
    {
        result?<Button/>:null
    }
 ```
-方法二：&&逻辑运算符
+- 方法二：&&逻辑运算符
 ```javascript
    {
        result && <Button/>

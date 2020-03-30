@@ -9,7 +9,18 @@
 }
 
 .projectinfo:hover{
-    border-color: rgb(234,169,68);
+    border-color: #ff9234;
+}
+.projectinfo:hover .projectinfo-title{
+    color: #ff9234;
+    /* text-decoration-line: underline;
+    text-decoration-style: wavy; */
+}
+.projectinfo:hover .projectinfo-time{
+    color: #ffb385;
+}
+.projectinfo:hover .projectinfo-desc{
+    color: #777;
 }
 
 .projectinfo-title{

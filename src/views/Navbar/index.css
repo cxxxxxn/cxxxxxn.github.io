@@ -11,7 +11,7 @@
 .nav-item{
     padding:10px 15px;
     color: #777;
-    font-size: 14px;
+    font-size: 16px;
     cursor: pointer;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .nav-toggle-button:hover{
-    fill: rgb(234,169,68);
+    fill: #ff9234;
     margin-top: 1px; 
 }
 
