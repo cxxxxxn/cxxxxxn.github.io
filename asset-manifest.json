@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b04f684.chunk.css",
-    "main.js": "/static/js/main.c73c42c1.chunk.js",
-    "main.js.map": "/static/js/main.c73c42c1.chunk.js.map",
+    "main.css": "/static/css/main.bde71060.chunk.css",
+    "main.js": "/static/js/main.661091e1.chunk.js",
+    "main.js.map": "/static/js/main.661091e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef4c655a.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef4c655a.js.map",
-    "static/css/2.22d6b5ec.chunk.css": "/static/css/2.22d6b5ec.chunk.css",
-    "static/js/2.c4a8c701.chunk.js": "/static/js/2.c4a8c701.chunk.js",
-    "static/js/2.c4a8c701.chunk.js.map": "/static/js/2.c4a8c701.chunk.js.map",
+    "static/css/2.f65fbdc1.chunk.css": "/static/css/2.f65fbdc1.chunk.css",
+    "static/js/2.d6a50874.chunk.js": "/static/js/2.d6a50874.chunk.js",
+    "static/js/2.d6a50874.chunk.js.map": "/static/js/2.d6a50874.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4d211e032aaa09d475d199ea8b142929.js": "/precache-manifest.4d211e032aaa09d475d199ea8b142929.js",
+    "precache-manifest.92c316bf02fc25e4b9e7d388248ad387.js": "/precache-manifest.92c316bf02fc25e4b9e7d388248ad387.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.22d6b5ec.chunk.css.map": "/static/css/2.22d6b5ec.chunk.css.map",
-    "static/css/main.0b04f684.chunk.css.map": "/static/css/main.0b04f684.chunk.css.map",
-    "static/js/2.c4a8c701.chunk.js.LICENSE.txt": "/static/js/2.c4a8c701.chunk.js.LICENSE.txt",
+    "static/css/2.f65fbdc1.chunk.css.map": "/static/css/2.f65fbdc1.chunk.css.map",
+    "static/css/main.bde71060.chunk.css.map": "/static/css/main.bde71060.chunk.css.map",
+    "static/js/2.d6a50874.chunk.js.LICENSE.txt": "/static/js/2.d6a50874.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/static/media/avatar.52169d8d.jpg",
-    "static/media/the_road_to_react.md": "/static/media/the_road_to_react.e0f5a9e0.md"
+    "static/media/the_road_to_react1.md": "/static/media/the_road_to_react1.9d43124a.md",
+    "static/media/the_road_to_react2.md": "/static/media/the_road_to_react2.a73ae587.md",
+    "static/media/third_party_library_react.md": "/static/media/third_party_library_react.3cecd0fe.md"
   },
   "entrypoints": [
     "static/js/runtime-main.ef4c655a.js",
-    "static/css/2.22d6b5ec.chunk.css",
-    "static/js/2.c4a8c701.chunk.js",
-    "static/css/main.0b04f684.chunk.css",
-    "static/js/main.c73c42c1.chunk.js"
+    "static/css/2.f65fbdc1.chunk.css",
+    "static/js/2.d6a50874.chunk.js",
+    "static/css/main.bde71060.chunk.css",
+    "static/js/main.661091e1.chunk.js"
   ]
 }
