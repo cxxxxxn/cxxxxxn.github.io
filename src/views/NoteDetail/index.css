@@ -1,7 +1,6 @@
 /*对 markdown 样式的补充*/
 pre {
     display: block;
-    margin: 0 0 10px;
     font-size: 14px;
     line-height: 1.4;
     color: #abb2bf;
@@ -16,6 +15,8 @@ pre ol {
     list-style: none;
     margin-left: 30px;
     padding: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 pre li {
     position: relative;
@@ -46,7 +47,7 @@ pre .line-num {
     margin-top: 1em;
 }
 #note-content strong {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #note-content p > code:not([class]) {
@@ -56,15 +57,19 @@ pre .line-num {
     background-color: #f9f2f4;
     border-radius: 4px;
 }
-#note-content p img{
+#note-content img{
     margin: 0 auto;
-    display: flex;
+    display: block;
+    margin-left:10%;
+    width:80%
 }
 
 #note-content {
     font-size: 14px;
     line-height: 24px;
     text-align: left;
+    font-weight: 400;
+    color: #333;
 }
 
 #note-content .desc ul,#note-content .desc ol {
@@ -78,7 +83,7 @@ pre .line-num {
 }
 
 #note-content h2, #note-content h3{
-    font-weight: 400;
+    font-weight: 500;
 }
 
 #note-content .desc a {
