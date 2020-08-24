@@ -1,0 +1,787 @@
+State,Customer Lifetime Value,Coverage,Education,EmploymentStatus,Gender,Income,Marital Status,Monthly Premium Auto,Months Since Last Claim,Months Since Policy Inception,Number of Policies,Policy Type,Renew Offer Type,Sales Channel,Total Claim Amount,Vehicle Class,Vehicle Size
+Nevada,11308.47178,Basic,College,Unemployed,F,0,Single,66,4,83,2,Personal Auto,Offer3,Branch,316.8,Four-Door Car,Medsize
+California,3350.687339,Extended,Bachelor,Employed,F,94395,Married,83,23,1,1,Personal Auto,Offer2,Web,582.690575,Four-Door Car,Medsize
+Washington,5021.150845,Extended,College,Employed,F,61987,Married,125,24,4,1,Personal Auto,Offer2,Branch,723.301363,SUV,Medsize
+Arizona,3508.92537,Extended,College,Unemployed,F,0,Single,97,19,18,1,Personal Auto,Offer1,Agent,698.4,Four-Door Car,Small
+California,10581.275,Extended,College,Employed,F,42513,Married,133,0,44,3,Corporate Auto,Offer1,Agent,628.207511,Sports Car,Small
+California,4605.036646,Basic,College,Medical Leave,F,22571,Single,63,29,51,9,Corporate Auto,Offer2,Web,302.4,Four-Door Car,Large
+Washington,3939.00637,Extended,Bachelor,Employed,F,60021,Married,99,12,28,1,Corporate Auto,Offer2,Agent,882.871945,Four-Door Car,Small
+Arizona,7590.913301,Basic,Bachelor,Employed,F,52348,Divorced,65,33,18,2,Personal Auto,Offer3,Branch,312,Two-Door Car,Medsize
+Washington,8018.503854,Basic,Bachelor,Employed,F,58843,Single,68,1,96,2,Corporate Auto,Offer3,Call Center,200.490816,Two-Door Car,Large
+Nevada,3554.845264,Extended,Master,Employed,F,58557,Married,88,4,83,1,Corporate Auto,Offer1,Branch,55.510526,Four-Door Car,Large
+Arizona,5554.826011,Basic,Master,Employed,F,52984,Married,69,12,81,5,Personal Auto,Offer1,Web,167.667603,Two-Door Car,Medsize
+Arizona,27789.69235,Extended,Bachelor,Employed,F,33806,Divorced,89,32,59,2,Corporate Auto,Offer2,Web,395.729716,Four-Door Car,Medsize
+California,2248.449633,Basic,Bachelor,Retired,F,24910,Single,63,7,63,1,Corporate Auto,Offer1,Branch,347.857619,Four-Door Car,Medsize
+Arizona,7218.375778,Extended,Master,Employed,F,45356,Single,90,31,30,3,Personal Auto,Offer2,Call Center,462.043003,Four-Door Car,Medsize
+California,29874.74493,Extended,Master,Employed,F,52651,Single,94,34,20,2,Personal Auto,Offer3,Call Center,451.2,Two-Door Car,Small
+California,4723.449803,Basic,Bachelor,Employed,F,29193,Married,61,0,47,9,Corporate Auto,Offer3,Branch,292.8,Four-Door Car,Medsize
+Arizona,10484.91535,Extended,College,Employed,F,61108,Divorced,89,22,93,2,Personal Auto,Offer2,Agent,49.451117,Four-Door Car,Medsize
+Nevada,2802.621642,Basic,Bachelor,Employed,F,34628,Married,71,21,31,1,Personal Auto,Offer2,Branch,132.517983,Four-Door Car,Medsize
+Washington,6727.617003,Extended,Bachelor,Employed,F,39428,Married,84,19,80,8,Personal Auto,Offer2,Branch,72.32926,Two-Door Car,Large
+California,5264.642009,Basic,College,Unemployed,F,0,Divorced,72,30,26,8,Special Auto,Offer1,Branch,135.888306,Four-Door Car,Medsize
+Washington,4705.589393,Extended,Bachelor,Unemployed,F,0,Single,78,21,23,3,Corporate Auto,Offer4,Agent,555.457674,Four-Door Car,Large
+Arizona,5450.573438,Basic,Bachelor,Employed,F,76389,Married,68,5,86,7,Personal Auto,Offer1,Web,262.00129,Four-Door Car,Small
+Arizona,8714.922135,Basic,College,Unemployed,F,0,Divorced,118,14,64,4,Personal Auto,Offer1,Agent,566.4,SUV,Medsize
+Nevada,3352.943699,Extended,Master,Employed,F,55359,Married,83,28,73,1,Special Auto,Offer4,Branch,303.331178,Four-Door Car,Large
+Nevada,5017.851448,Basic,Master,Employed,F,79814,Married,62,18,50,3,Personal Auto,Offer4,Branch,31.553152,Four-Door Car,Medsize
+Arizona,2753.159194,Basic,Bachelor,Employed,F,75277,Married,70,2,48,1,Corporate Auto,Offer2,Agent,459.743736,Two-Door Car,Medsize
+California,4867.378203,Basic,Doctor,Disabled,F,20123,Married,63,7,47,3,Personal Auto,Offer2,Call Center,302.4,Four-Door Car,Medsize
+California,5095.439821,Extended,Bachelor,Unemployed,F,0,Married,137,19,30,1,Personal Auto,Offer1,Web,452.295175,SUV,Medsize
+California,2510.633216,Basic,Doctor,Unemployed,F,0,Married,64,24,1,1,Corporate Auto,Offer4,Branch,437.184112,Four-Door Car,Large
+Washington,11618.55713,Premium,College,Employed,F,27750,Married,297,28,25,1,Personal Auto,Offer1,Branch,1425.6,Luxury Car,Medsize
+California,4879.442929,Basic,Bachelor,Employed,F,58580,Married,61,5,53,3,Personal Auto,Offer1,Agent,292.8,Four-Door Car,Medsize
+Arizona,4766.940473,Basic,Bachelor,Medical Leave,F,29177,Married,64,5,20,5,Personal Auto,Offer1,Call Center,307.2,Four-Door Car,Large
+Washington,3747.060981,Basic,College,Unemployed,F,0,Single,107,17,81,1,Personal Auto,Offer1,Call Center,549.986128,SUV,Medsize
+California,3821.819872,Extended,College,Employed,F,79189,Married,95,20,50,1,Corporate Auto,Offer2,Branch,50.171541,Two-Door Car,Small
+Arizona,9420.965855,Basic,Bachelor,Employed,F,47048,Married,118,0,37,3,Personal Auto,Offer4,Call Center,566.4,SUV,Medsize
+Arizona,14514.00519,Basic,College,Employed,F,88753,Single,181,6,21,3,Personal Auto,Offer1,Agent,868.8,Luxury SUV,Small
+Washington,2719.506996,Basic,College,Retired,F,14030,Married,72,11,3,1,Personal Auto,Offer2,Branch,345.6,Two-Door Car,Large
+Nevada,5442.744248,Basic,Doctor,Employed,F,25884,Married,69,18,36,9,Personal Auto,Offer2,Branch,292.274846,Four-Door Car,Medsize
+Nevada,4376.363592,Premium,Bachelor,Employed,F,63774,Divorced,111,18,63,1,Personal Auto,Offer2,Agent,60.036683,Four-Door Car,Medsize
+California,5938.511892,Basic,Doctor,Employed,F,44190,Married,74,17,40,3,Corporate Auto,Offer2,Branch,10.68564,Four-Door Car,Medsize
+Nevada,15277.47796,Basic,Bachelor,Employed,F,38183,Married,191,21,14,8,Personal Auto,Offer1,Branch,981.010879,Luxury Car,Medsize
+Nevada,7154.094304,Basic,Bachelor,Employed,F,28204,Married,182,30,84,1,Personal Auto,Offer2,Branch,532.089467,Luxury Car,Medsize
+California,10014.02955,Extended,Bachelor,Employed,F,74489,Married,124,11,36,3,Special Auto,Offer3,Branch,128.535182,SUV,Medsize
+Arizona,14040.96476,Basic,Bachelor,Unemployed,F,0,Married,195,9,33,5,Personal Auto,Offer1,Web,669.037562,Luxury SUV,Small
+California,14635.45158,Extended,Bachelor,Unemployed,F,0,Divorced,139,5,56,2,Corporate Auto,Offer1,Call Center,667.2,SUV,Medsize
+California,5107.163002,Basic,Bachelor,Employed,F,35625,Married,65,10,56,3,Personal Auto,Offer2,Agent,288.572108,Four-Door Car,Medsize
+Arizona,5365.93282,Basic,College,Employed,F,62808,Married,66,33,37,4,Special Auto,Offer3,Branch,211.515893,Two-Door Car,Medsize
+California,5505.167392,Basic,College,Retired,F,15648,Married,73,29,68,5,Special Auto,Offer2,Agent,413.269261,Two-Door Car,Medsize
+California,4334.064096,Extended,Bachelor,Retired,F,23904,Single,123,1,67,1,Corporate Auto,Offer1,Agent,590.4,SUV,Medsize
+California,6265.343299,Extended,Doctor,Unemployed,F,0,Married,84,18,25,4,Personal Auto,Offer1,Agent,481.025786,Four-Door Car,Medsize
+California,5575.198201,Basic,College,Medical Leave,F,18892,Married,73,33,76,5,Personal Auto,Offer1,Web,106.814987,Four-Door Car,Medsize
+Arizona,7462.926263,Extended,College,Employed,F,70263,Married,93,30,66,5,Corporate Auto,Offer2,Call Center,7.345946,Two-Door Car,Small
+California,9031.214859,Extended,Master,Unemployed,F,0,Single,122,15,47,9,Corporate Auto,Offer1,Branch,650.52179,Sports Car,Medsize
+Nevada,7406.882612,Basic,Bachelor,Employed,F,38169,Married,62,18,82,2,Corporate Auto,Offer1,Branch,71.678412,Four-Door Car,Medsize
+Arizona,10719.08467,Extended,College,Employed,F,86036,Divorced,90,8,20,2,Personal Auto,Offer1,Web,501.26513,Four-Door Car,Medsize
+Washington,3721.390713,Basic,College,Unemployed,F,0,Single,101,16,59,1,Personal Auto,Offer1,Agent,862.49778,SUV,Medsize
+California,11955.39598,Extended,College,Employed,F,71587,Married,99,1,74,2,Personal Auto,Offer1,Agent,133.103003,Two-Door Car,Medsize
+California,8072.245595,Basic,Bachelor,Employed,F,57938,Married,101,6,36,3,Special Auto,Offer3,Branch,282.458203,SUV,Large
+Arizona,3241.588659,Extended,Bachelor,Employed,F,89196,Divorced,81,17,52,1,Personal Auto,Offer1,Agent,41.182611,Four-Door Car,Small
+California,6925.182046,Extended,Bachelor,Employed,F,88893,Married,86,5,63,9,Personal Auto,Offer2,Call Center,72.86746,Four-Door Car,Small
+Arizona,2885.407442,Basic,Bachelor,Employed,F,92722,Married,72,34,45,1,Corporate Auto,Offer2,Call Center,28.126402,Two-Door Car,Small
+Arizona,5416.413581,Basic,Bachelor,Employed,F,53249,Married,67,32,10,3,Personal Auto,Offer2,Web,343.340361,Four-Door Car,Large
+California,3979.718986,Extended,Bachelor,Employed,F,96413,Married,99,3,78,1,Personal Auto,Offer3,Web,560.045764,Four-Door Car,Small
+California,3816.408655,Extended,College,Employed,F,82414,Divorced,95,10,85,1,Personal Auto,Offer4,Branch,30.423443,Four-Door Car,Large
+California,7480.713618,Basic,Bachelor,Employed,F,52513,Married,65,0,76,2,Personal Auto,Offer3,Web,91.244938,Two-Door Car,Medsize
+California,4792.509792,Basic,College,Disabled,F,20181,Married,66,8,66,3,Personal Auto,Offer1,Agent,316.8,Four-Door Car,Medsize
+Arizona,17441.6378,Extended,College,Employed,F,80969,Married,217,1,80,3,Personal Auto,Offer4,Web,1041.6,Luxury SUV,Small
+Arizona,3694.14876,Extended,Bachelor,Employed,F,87485,Divorced,92,12,57,1,Personal Auto,Offer3,Branch,441.6,Four-Door Car,Medsize
+Washington,9521.676094,Basic,Bachelor,Employed,F,74583,Married,118,31,20,4,Personal Auto,Offer1,Agent,161.210468,SUV,Medsize
+California,2359.423599,Basic,Bachelor,Disabled,F,19864,Divorced,63,22,96,1,Personal Auto,Offer1,Web,352.394515,Four-Door Car,Medsize
+Nevada,3445.86241,Extended,Bachelor,Unemployed,F,0,Divorced,94,33,95,1,Corporate Auto,Offer1,Web,590.626396,Four-Door Car,Small
+Washington,20067.40315,Premium,Bachelor,Employed,F,85165,Single,101,8,81,2,Personal Auto,Offer1,Branch,384.31404,Four-Door Car,Medsize
+California,4171.300175,Basic,Bachelor,Employed,F,36723,Married,106,13,18,1,Personal Auto,Offer2,Agent,580.091966,SUV,Medsize
+California,4967.544169,Basic,College,Employed,F,28524,Married,62,26,45,9,Personal Auto,Offer2,Web,297.6,Four-Door Car,Medsize
+California,5963.174005,Basic,Bachelor,Employed,F,87020,Married,74,6,84,8,Personal Auto,Offer2,Web,331.116399,Four-Door Car,Small
+Arizona,5070.227097,Basic,Doctor,Unemployed,F,0,Divorced,69,8,24,6,Personal Auto,Offer4,Agent,331.2,Four-Door Car,Small
+California,2396.219292,Basic,Bachelor,Unemployed,F,0,Married,66,6,71,1,Corporate Auto,Offer2,Call Center,433.160284,Four-Door Car,Large
+Washington,14413.37774,Basic,College,Employed,F,56457,Single,73,27,68,2,Personal Auto,Offer3,Web,138.460771,Four-Door Car,Large
+Arizona,5217.513287,Basic,Bachelor,Employed,F,39854,Divorced,66,6,4,7,Personal Auto,Offer2,Web,261.930545,Two-Door Car,Medsize
+California,2363.295991,Basic,Bachelor,Employed,F,27839,Married,65,20,54,1,Personal Auto,Offer3,Agent,312,Two-Door Car,Small
+California,5391.775844,Basic,College,Employed,F,63633,Married,68,16,21,8,Corporate Auto,Offer2,Agent,374.024077,Two-Door Car,Medsize
+Arizona,5316.7566,Basic,College,Employed,F,28559,Married,66,5,1,5,Corporate Auto,Offer4,Call Center,427.242973,Four-Door Car,Medsize
+California,2594.905944,Basic,College,Retired,F,25925,Married,72,5,85,1,Corporate Auto,Offer2,Web,660.587577,Two-Door Car,Small
+Arizona,10546.65545,Extended,Master,Employed,F,43922,Married,88,26,88,2,Personal Auto,Offer2,Web,108.701381,Four-Door Car,Medsize
+Nevada,8388.717011,Basic,Bachelor,Employed,F,87123,Married,69,13,87,2,Corporate Auto,Offer1,Agent,118.468275,Four-Door Car,Large
+California,10960.93667,Extended,College,Employed,F,29815,Single,95,35,18,2,Personal Auto,Offer4,Agent,76.175672,Four-Door Car,Medsize
+Washington,5083.789524,Basic,Bachelor,Employed,F,62088,Married,64,6,28,4,Corporate Auto,Offer1,Agent,73.258034,Two-Door Car,Medsize
+Nevada,9031.214859,Extended,Master,Unemployed,F,0,Single,122,15,47,9,Personal Auto,Offer1,Branch,650.52179,Sports Car,Medsize
+California,7714.623619,Basic,College,Unemployed,F,0,Single,106,3,90,8,Personal Auto,Offer2,Agent,763.2,Sports Car,Medsize
+California,5119.901412,Basic,Bachelor,Employed,F,26890,Married,65,28,37,4,Personal Auto,Offer2,Branch,312,Two-Door Car,Small
+California,5656.203464,Basic,Bachelor,Employed,F,45586,Divorced,72,17,20,4,Personal Auto,Offer1,Branch,203.42306,Four-Door Car,Medsize
+California,3409.677392,Extended,Bachelor,Employed,F,85023,Married,85,4,69,1,Personal Auto,Offer2,Agent,408,Four-Door Car,Medsize
+Arizona,4991.035369,Basic,College,Employed,F,54189,Married,62,11,84,3,Personal Auto,Offer1,Agent,29.035528,Two-Door Car,Medsize
+Washington,7618.442045,Basic,College,Employed,F,41900,Married,63,0,34,2,Corporate Auto,Offer2,Web,170.496071,Four-Door Car,Large
+Washington,5096.700181,Basic,College,Employed,F,27940,Married,65,21,3,4,Personal Auto,Offer2,Agent,27.66775,Two-Door Car,Medsize
+Arizona,15042.57658,Premium,Bachelor,Employed,F,22799,Married,190,10,75,6,Corporate Auto,Offer2,Branch,912,SUV,Medsize
+California,3791.549972,Extended,College,Employed,F,41212,Married,95,13,27,1,Personal Auto,Offer4,Web,405.443681,Four-Door Car,Medsize
+California,4605.036646,Basic,College,Medical Leave,F,22571,Single,63,29,51,9,Personal Auto,Offer2,Web,302.4,Four-Door Car,Large
+Washington,15374.18296,Extended,Bachelor,Employed,F,42570,Married,128,5,52,2,Personal Auto,Offer2,Agent,587.409205,SUV,Large
+Arizona,2504.871709,Basic,Bachelor,Employed,F,66081,Single,64,31,92,1,Personal Auto,Offer1,Branch,42.029731,Four-Door Car,Small
+Arizona,9560.049227,Extended,Doctor,Disabled,F,19429,Married,122,18,21,9,Special Auto,Offer1,Branch,683.45551,SUV,Small
+California,6756.062791,Extended,Bachelor,Employed,F,46879,Married,86,3,62,3,Personal Auto,Offer1,Agent,324.944098,Four-Door Car,Medsize
+Arizona,2853.600347,Basic,Doctor,Employed,F,87455,Divorced,71,10,46,1,Corporate Auto,Offer2,Call Center,329.238904,Four-Door Car,Medsize
+Arizona,5324.38786,Basic,Bachelor,Employed,F,31561,Divorced,68,8,62,7,Personal Auto,Offer3,Web,326.4,Four-Door Car,Medsize
+Arizona,2862.729074,Basic,Doctor,Employed,F,64640,Divorced,73,5,94,1,Personal Auto,Offer3,Agent,327.912134,Four-Door Car,Medsize
+California,8614.686004,Basic,Master,Employed,F,64220,Married,107,3,86,7,Personal Auto,Offer1,Branch,48.782626,SUV,Medsize
+California,3274.037562,Extended,College,Employed,F,83869,Married,81,10,23,1,Personal Auto,Offer1,Agent,348.186032,Four-Door Car,Medsize
+Washington,3690.698916,Extended,Bachelor,Employed,F,59016,Married,92,3,65,1,Corporate Auto,Offer2,Web,441.6,Four-Door Car,Medsize
+California,2776.772734,Basic,College,Employed,F,70793,Married,69,32,1,1,Personal Auto,Offer2,Web,62.625841,Four-Door Car,Large
+Washington,4177.666255,Basic,Master,Employed,F,29133,Married,104,27,76,1,Personal Auto,Offer2,Branch,499.2,Sports Car,Medsize
+California,20930.05217,Basic,College,Employed,F,30535,Married,66,22,18,2,Personal Auto,Offer2,Call Center,94.142294,Four-Door Car,Small
+Nevada,18745.39592,Extended,Master,Medical Leave,F,27229,Single,99,20,9,2,Personal Auto,Offer3,Agent,475.2,Four-Door Car,Small
+California,5871.607022,Extended,Bachelor,Unemployed,F,0,Single,80,24,20,7,Corporate Auto,Offer1,Call Center,871.055266,Four-Door Car,Medsize
+Arizona,5453.709172,Basic,Master,Employed,F,69468,Married,67,2,3,3,Personal Auto,Offer2,Call Center,302.733593,Four-Door Car,Medsize
+California,6672.05628,Premium,College,Employed,F,50537,Married,165,10,35,1,Personal Auto,Offer1,Branch,60.005031,SUV,Medsize
+California,4626.801093,Basic,Master,Employed,F,79487,Divorced,114,20,87,1,Personal Auto,Offer2,Branch,547.2,SUV,Medsize
+California,6265.343299,Extended,Doctor,Unemployed,F,0,Married,84,18,25,4,Personal Auto,Offer1,Agent,481.025786,Four-Door Car,Medsize
+Arizona,5349.996572,Basic,College,Employed,F,89158,Single,67,34,71,6,Personal Auto,Offer1,Branch,272.195232,Four-Door Car,Medsize
+Arizona,5895.106386,Basic,College,Employed,F,78352,Divorced,74,33,3,7,Personal Auto,Offer4,Web,152.365482,Two-Door Car,Medsize
+California,3837.615029,Basic,Bachelor,Unemployed,F,0,Married,106,15,30,1,Personal Auto,Offer3,Agent,117.229971,SUV,Medsize
+Washington,4911.115538,Basic,College,Employed,F,33700,Married,62,26,72,3,Corporate Auto,Offer1,Agent,274.114843,Four-Door Car,Medsize
+Arizona,7751.855026,Basic,College,Unemployed,F,0,Single,105,14,21,7,Personal Auto,Offer2,Agent,756,SUV,Large
+California,25464.82059,Extended,College,Retired,F,13663,Single,97,1,66,2,Personal Auto,Offer1,Branch,465.6,Four-Door Car,Small
+Arizona,5926.957452,Extended,College,Unemployed,F,0,Married,84,19,26,4,Personal Auto,Offer1,Branch,403.2,Four-Door Car,Medsize
+Arizona,8675.993821,Basic,College,Employed,F,65933,Married,108,23,16,5,Personal Auto,Offer3,Call Center,379.951464,SUV,Medsize
+California,15860.03591,Extended,Master,Unemployed,F,0,Married,136,10,41,2,Personal Auto,Offer1,Branch,46.098963,SUV,Small
+California,5498.753121,Extended,Bachelor,Employed,F,60668,Married,138,18,92,1,Personal Auto,Offer3,Branch,553.699596,SUV,Medsize
+California,2503.603127,Basic,Bachelor,Employed,F,47285,Married,63,7,3,1,Personal Auto,Offer4,Call Center,302.4,Four-Door Car,Medsize
+Nevada,2396.672304,Basic,College,Medical Leave,F,26222,Married,62,23,18,1,Personal Auto,Offer1,Branch,297.6,Four-Door Car,Medsize
+Washington,27929.96441,Extended,College,Employed,F,88105,Married,86,5,26,2,Personal Auto,Offer1,Agent,412.8,Four-Door Car,Medsize
+Nevada,10856.01489,Extended,Doctor,Employed,F,59803,Married,90,21,0,2,Corporate Auto,Offer2,Agent,22.75546,Two-Door Car,Medsize
+California,5028.739297,Basic,College,Unemployed,F,0,Married,67,21,60,5,Personal Auto,Offer4,Web,216.196521,Four-Door Car,Medsize
+Arizona,41103.24183,Premium,College,Employed,F,30845,Married,116,3,89,2,Personal Auto,Offer1,Branch,556.8,Four-Door Car,Medsize
+California,4334.064096,Extended,Bachelor,Retired,F,23904,Single,123,1,67,1,Personal Auto,Offer1,Agent,590.4,SUV,Medsize
+Nevada,30081.36783,Basic,Bachelor,Employed,F,24626,Married,108,19,3,2,Personal Auto,Offer1,Call Center,225.971279,SUV,Medsize
+California,3745.374656,Extended,College,Employed,F,59732,Married,94,0,54,1,Corporate Auto,Offer4,Branch,135.626867,Four-Door Car,Medsize
+Arizona,2396.219292,Basic,Bachelor,Unemployed,F,0,Married,66,6,71,1,Corporate Auto,Offer2,Call Center,433.160284,Four-Door Car,Large
+California,5146.898635,Basic,College,Employed,F,93752,Divorced,64,34,24,3,Corporate Auto,Offer4,Call Center,154.713524,Four-Door Car,Large
+Washington,3580.261881,Extended,College,Employed,F,75333,Married,90,15,44,1,Personal Auto,Offer2,Web,289.236063,Four-Door Car,Small
+Nevada,5821.128509,Basic,Bachelor,Employed,F,61108,Married,72,27,84,6,Personal Auto,Offer2,Agent,23.773332,Four-Door Car,Medsize
+Nevada,4515.445404,Premium,Bachelor,Employed,F,21500,Divorced,115,14,44,1,Corporate Auto,Offer3,Agent,39.292196,Four-Door Car,Medsize
+California,6712.294021,Extended,Bachelor,Employed,F,44891,Married,83,12,75,6,Personal Auto,Offer3,Call Center,74.803791,Four-Door Car,Medsize
+Arizona,4376.363592,Premium,Bachelor,Employed,F,63774,Divorced,111,18,63,1,Personal Auto,Offer2,Agent,60.036683,Four-Door Car,Medsize
+Nevada,8640.753192,Basic,Bachelor,Employed,F,33402,Married,109,7,66,4,Personal Auto,Offer1,Web,71.053011,SUV,Small
+California,4460.418492,Basic,College,Unemployed,F,0,Divorced,65,24,45,4,Corporate Auto,Offer3,Branch,312,Four-Door Car,Small
+California,6798.272436,Extended,College,Employed,F,32517,Single,94,11,53,3,Special Auto,Offer1,Branch,451.2,Four-Door Car,Small
+Arizona,5219.886414,Basic,Bachelor,Employed,F,64964,Single,66,9,84,5,Personal Auto,Offer3,Call Center,286.967405,Four-Door Car,Medsize
+Nevada,6140.242989,Extended,College,Employed,F,34112,Married,77,32,68,6,Personal Auto,Offer2,Branch,369.6,Four-Door Car,Small
+Arizona,3756.63877,Basic,College,Unemployed,F,0,Married,108,32,49,1,Personal Auto,Offer2,Agent,718.383,SUV,Medsize
+California,32725.2974,Extended,Master,Employed,F,39894,Married,134,23,87,2,Corporate Auto,Offer3,Branch,411.077415,SUV,Medsize
+Arizona,5181.054467,Basic,College,Unemployed,F,0,Married,70,4,64,7,Personal Auto,Offer1,Branch,336,Four-Door Car,Large
+Arizona,2417.777032,Basic,Master,Employed,F,20200,Single,65,3,51,1,Personal Auto,Offer2,Agent,312,Two-Door Car,Medsize
+California,5251.152281,Basic,Bachelor,Unemployed,F,0,Married,72,21,65,3,Personal Auto,Offer2,Web,345.6,Four-Door Car,Medsize
+Arizona,7148.331333,Basic,Bachelor,Employed,F,51791,Married,181,10,46,1,Personal Auto,Offer4,Call Center,422.960234,Luxury Car,Medsize
+California,2902.622439,Basic,College,Employed,F,23893,Married,73,19,21,1,Personal Auto,Offer2,Agent,186.292275,Four-Door Car,Medsize
+Nevada,4413.285858,Basic,College,Employed,F,37697,Married,112,35,8,1,Personal Auto,Offer4,Agent,38.403843,SUV,Small
+Washington,7462.926263,Extended,College,Employed,F,70263,Married,93,30,66,5,Personal Auto,Offer2,Call Center,7.345946,Two-Door Car,Small
+California,5503.440723,Basic,Bachelor,Employed,F,76839,Married,68,12,85,3,Personal Auto,Offer1,Call Center,326.4,Four-Door Car,Medsize
+California,4739.34663,Premium,Bachelor,Employed,F,49447,Married,119,9,48,1,Personal Auto,Offer1,Branch,762.007253,Four-Door Car,Medsize
+Washington,3355.528168,Extended,College,Employed,F,46644,Married,84,34,19,1,Personal Auto,Offer3,Agent,150.688024,Four-Door Car,Medsize
+California,2874.08847,Basic,Master,Employed,F,33462,Married,72,12,9,1,Personal Auto,Offer2,Branch,112.425578,Four-Door Car,Medsize
+California,9031.214859,Extended,Master,Unemployed,F,0,Single,122,15,47,9,Personal Auto,Offer1,Branch,650.52179,Sports Car,Medsize
+California,9429.080755,Extended,College,Employed,F,75638,Divorced,83,6,52,2,Personal Auto,Offer4,Agent,108.69654,Four-Door Car,Medsize
+California,7613.049819,Basic,Bachelor,Disabled,F,24982,Married,109,20,52,7,Personal Auto,Offer1,Web,523.2,SUV,Medsize
+Arizona,7317.014254,Basic,College,Employed,F,24083,Divorced,63,22,2,2,Personal Auto,Offer1,Agent,340.453606,Four-Door Car,Small
+California,17006.00256,Basic,Bachelor,Employed,F,58620,Married,71,11,51,2,Corporate Auto,Offer3,Call Center,340.8,Four-Door Car,Medsize
+Nevada,3589.372361,Extended,College,Employed,F,30944,Divorced,92,15,46,1,Personal Auto,Offer1,Web,348.216284,Four-Door Car,Small
+Nevada,7380.570445,Basic,Bachelor,Employed,F,53957,Married,184,19,80,1,Corporate Auto,Offer1,Branch,61.554272,Luxury SUV,Medsize
+California,17526.17908,Extended,Bachelor,Employed,F,52228,Married,220,29,72,8,Personal Auto,Offer3,Agent,1056,Luxury SUV,Medsize
+Washington,11196.46002,Premium,Bachelor,Unemployed,F,0,Married,298,26,94,1,Personal Auto,Offer1,Branch,2145.6,Luxury Car,Medsize
+California,12840.43291,Extended,College,Unemployed,F,0,Single,90,1,94,2,Personal Auto,Offer1,Call Center,648,Two-Door Car,Large
+California,8343.751519,Basic,College,Employed,F,64127,Single,71,31,19,2,Personal Auto,Offer4,Branch,72.862304,Four-Door Car,Medsize
+Washington,13759.14695,Extended,Bachelor,Retired,F,16794,Single,96,7,31,2,Personal Auto,Offer1,Branch,460.8,Four-Door Car,Medsize
+California,2516.213745,Basic,Bachelor,Employed,F,48829,Single,64,23,70,1,Personal Auto,Offer1,Agent,300.312635,Four-Door Car,Medsize
+California,3571.34607,Extended,Doctor,Employed,F,73853,Single,89,7,35,1,Personal Auto,Offer2,Agent,427.2,Four-Door Car,Small
+Washington,4526.52638,Basic,Bachelor,Unemployed,F,0,Single,68,20,44,7,Personal Auto,Offer2,Agent,326.4,Four-Door Car,Medsize
+Arizona,5310.861767,Basic,College,Unemployed,F,0,Married,72,17,11,3,Personal Auto,Offer1,Branch,345.6,Four-Door Car,Small
+Arizona,5874.820212,Basic,College,Employed,F,35301,Married,74,23,68,7,Personal Auto,Offer1,Agent,128.643975,Four-Door Car,Medsize
+California,8579.889155,Basic,College,Disabled,F,21829,Divorced,111,6,59,3,Personal Auto,Offer2,Call Center,532.8,Sports Car,Medsize
+Washington,8903.966435,Premium,Bachelor,Medical Leave,F,15142,Married,116,7,5,3,Personal Auto,Offer2,Branch,792.609747,Two-Door Car,Small
+Arizona,8149.769437,Basic,Doctor,Unemployed,F,0,Married,71,28,76,2,Corporate Auto,Offer2,Call Center,340.8,Two-Door Car,Medsize
+California,4633.550875,Basic,Bachelor,Employed,F,29105,Married,117,28,31,1,Personal Auto,Offer2,Branch,272.612048,Sports Car,Medsize
+Arizona,6678.899026,Extended,Bachelor,Employed,F,47137,Married,84,5,11,5,Personal Auto,Offer4,Agent,161.640052,Four-Door Car,Medsize
+Nevada,2222.865016,Basic,College,Unemployed,F,0,Single,62,5,54,1,Corporate Auto,Offer1,Agent,446.4,Two-Door Car,Medsize
+Washington,8522.759016,Basic,Doctor,Unemployed,F,0,Married,109,19,2,3,Corporate Auto,Offer1,Call Center,723.786607,SUV,Medsize
+Washington,3479.260311,Extended,College,Employed,F,66711,Married,86,25,92,1,Corporate Auto,Offer1,Call Center,366.381387,Two-Door Car,Small
+Arizona,2509.508795,Basic,Bachelor,Unemployed,F,0,Single,71,20,48,1,Personal Auto,Offer1,Agent,511.2,Four-Door Car,Small
+Washington,3094.320237,Extended,College,Employed,F,20954,Married,78,15,27,1,Special Auto,Offer2,Agent,534.501024,Four-Door Car,Medsize
+Nevada,5470.060561,Extended,Bachelor,Employed,F,54507,Married,138,20,11,1,Personal Auto,Offer2,Agent,702.990032,SUV,Medsize
+Arizona,7457.344801,Basic,College,Employed,F,43406,Married,187,6,49,1,Personal Auto,Offer3,Agent,897.6,Luxury SUV,Medsize
+Arizona,22185.88045,Basic,Master,Employed,F,60426,Single,62,0,97,2,Corporate Auto,Offer1,Call Center,133.284622,Two-Door Car,Medsize
+Washington,9470.624437,Extended,College,Employed,F,22514,Married,80,22,96,2,Personal Auto,Offer2,Call Center,203.469143,Four-Door Car,Medsize
+Arizona,3548.148767,Extended,Doctor,Employed,F,76114,Married,88,6,97,1,Personal Auto,Offer2,Agent,422.4,Four-Door Car,Medsize
+Arizona,13891.67638,Basic,College,Employed,F,70725,Divorced,70,2,0,2,Corporate Auto,Offer2,Web,336,Four-Door Car,Medsize
+Arizona,3554.845264,Extended,Master,Employed,F,58557,Married,88,4,83,1,Personal Auto,Offer1,Branch,55.510526,Four-Door Car,Large
+California,2971.919417,Extended,Bachelor,Employed,F,83873,Single,76,5,36,1,Personal Auto,Offer3,Branch,218.374041,Two-Door Car,Medsize
+California,11302.60169,Extended,Doctor,Employed,F,22361,Married,95,15,42,2,Personal Auto,Offer4,Agent,530.667993,Four-Door Car,Small
+California,7996.597066,Extended,Bachelor,Employed,F,70061,Married,99,2,57,3,Corporate Auto,Offer3,Agent,699.517349,Four-Door Car,Small
+Arizona,3179.474225,Extended,Bachelor,Employed,F,65742,Married,79,6,0,1,Personal Auto,Offer2,Call Center,277.360797,Four-Door Car,Medsize
+Arizona,8224.770259,Basic,Bachelor,Employed,F,82634,Single,104,8,74,3,Personal Auto,Offer3,Agent,324.097433,SUV,Medsize
+Nevada,2430.484375,Basic,College,Employed,F,33775,Married,61,24,95,1,Personal Auto,Offer1,Agent,292.8,Two-Door Car,Medsize
+Arizona,2382.672856,Basic,Bachelor,Unemployed,F,0,Married,65,24,47,1,Personal Auto,Offer1,Agent,27.031485,Four-Door Car,Medsize
+Nevada,6991.248087,Basic,Bachelor,Medical Leave,F,19019,Married,186,7,46,1,Personal Auto,Offer4,Branch,1003.050834,Luxury SUV,Medsize
+Arizona,2848.564466,Extended,Bachelor,Unemployed,F,0,Single,81,26,58,1,Personal Auto,Offer1,Branch,583.2,Four-Door Car,Medsize
+Arizona,8123.023295,Extended,Bachelor,Unemployed,F,0,Single,78,15,47,2,Special Auto,Offer3,Web,561.6,Four-Door Car,Small
+Arizona,7255.137772,Basic,College,Employed,F,67352,Married,181,7,80,1,Personal Auto,Offer3,Branch,560.947563,Luxury Car,Small
+California,5904.847853,Basic,Bachelor,Employed,F,89953,Single,74,3,42,3,Corporate Auto,Offer2,Web,274.165887,Four-Door Car,Medsize
+Nevada,9180.154161,Basic,College,Employed,F,47663,Divorced,114,35,24,8,Personal Auto,Offer1,Branch,103.702555,Sports Car,Medsize
+California,8273.111579,Premium,College,Unemployed,F,0,Divorced,116,6,78,3,Personal Auto,Offer1,Web,509.513764,Four-Door Car,Large
+Nevada,4349.30875,Basic,College,Employed,F,75648,Married,108,28,10,1,Corporate Auto,Offer2,Branch,112.660916,SUV,Large
+California,5505.687336,Basic,Master,Employed,F,95766,Married,68,17,62,5,Personal Auto,Offer2,Call Center,162.557048,Four-Door Car,Medsize
+Arizona,2833.980142,Basic,Bachelor,Employed,F,94812,Married,70,11,40,1,Personal Auto,Offer2,Branch,121.025058,Four-Door Car,Medsize
+California,5099.513147,Basic,Bachelor,Unemployed,F,0,Married,70,28,77,3,Personal Auto,Offer1,Branch,336,Two-Door Car,Small
+Arizona,3063.114594,Extended,College,Unemployed,F,0,Single,95,14,57,1,Personal Auto,Offer1,Agent,456,Two-Door Car,Medsize
+Arizona,3969.433177,Basic,College,Employed,F,49544,Single,101,3,29,1,Personal Auto,Offer1,Agent,0.769185,SUV,Medsize
+California,5107.163002,Basic,Bachelor,Employed,F,35625,Married,65,10,56,3,Personal Auto,Offer2,Agent,288.572108,Four-Door Car,Medsize
+Nevada,4699.034135,Extended,Bachelor,Unemployed,F,0,Married,129,14,93,1,Personal Auto,Offer1,Web,291.744204,SUV,Medsize
+California,2395.57,Basic,Doctor,Disabled,F,21986,Divorced,63,1,9,1,Personal Auto,Offer2,Branch,333.696228,Two-Door Car,Medsize
+Washington,8936.823519,Basic,Master,Employed,F,37520,Married,74,21,30,2,Special Auto,Offer1,Agent,163.576763,Two-Door Car,Medsize
+Arizona,6687.593818,Extended,Bachelor,Employed,F,23772,Married,83,19,25,4,Personal Auto,Offer2,Agent,100.652984,Four-Door Car,Medsize
+Arizona,2555.535685,Basic,Doctor,Disabled,F,18241,Married,65,17,44,1,Personal Auto,Offer3,Agent,151.991098,Two-Door Car,Medsize
+California,5615.073509,Basic,Bachelor,Disabled,F,19949,Married,74,0,99,3,Corporate Auto,Offer1,Branch,355.2,Four-Door Car,Medsize
+California,3985.398895,Extended,Bachelor,Employed,F,77739,Married,98,31,61,1,Personal Auto,Offer2,Call Center,428.563553,Four-Door Car,Large
+California,5759.011129,Basic,Bachelor,Employed,F,30968,Married,74,10,89,8,Corporate Auto,Offer1,Branch,45.425684,Two-Door Car,Medsize
+California,14137.23043,Basic,College,Employed,F,31794,Divorced,119,12,16,2,Personal Auto,Offer1,Agent,571.2,SUV,Medsize
+Nevada,4349.30875,Basic,College,Employed,F,75648,Married,108,28,10,1,Corporate Auto,Offer2,Branch,112.660916,SUV,Large
+Washington,9688.129179,Basic,College,Medical Leave,F,24584,Single,66,11,74,2,Corporate Auto,Offer1,Agent,279.706613,Four-Door Car,Medsize
+Arizona,3219.146148,Extended,Bachelor,Employed,F,45892,Married,81,1,49,1,Corporate Auto,Offer2,Agent,388.8,Four-Door Car,Medsize
+California,2897.779107,Extended,College,Unemployed,F,0,Single,85,4,45,1,Personal Auto,Offer2,Branch,612,Two-Door Car,Medsize
+Arizona,5515.246935,Basic,College,Employed,F,75963,Divorced,69,4,23,7,Corporate Auto,Offer3,Branch,102.147789,Two-Door Car,Medsize
+California,3265.156348,Extended,Bachelor,Employed,F,25820,Divorced,82,10,69,1,Personal Auto,Offer1,Agent,393.6,Four-Door Car,Medsize
+Washington,4462.997006,Basic,Bachelor,Unemployed,F,0,Single,73,35,52,5,Personal Auto,Offer1,Web,350.4,Two-Door Car,Medsize
+Washington,4570.673702,Basic,Bachelor,Disabled,F,27538,Divorced,63,10,6,3,Personal Auto,Offer1,Call Center,285.843893,Four-Door Car,Medsize
+Washington,14754.35923,Extended,Bachelor,Employed,F,26486,Single,128,18,5,2,Personal Auto,Offer1,Agent,614.4,SUV,Medsize
+California,4731.844073,Basic,Bachelor,Unemployed,F,0,Single,64,14,92,7,Personal Auto,Offer3,Web,307.2,Four-Door Car,Medsize
+Washington,10620.49148,Basic,College,Employed,F,35601,Single,69,34,15,2,Personal Auto,Offer3,Branch,249.803437,Four-Door Car,Medsize
+Washington,5395.091602,Basic,Bachelor,Employed,F,86640,Married,67,2,25,5,Personal Auto,Offer2,Web,65.457366,Four-Door Car,Medsize
+California,6913.566525,Basic,College,Retired,F,26714,Divorced,64,17,7,2,Personal Auto,Offer3,Call Center,307.2,Two-Door Car,Small
+California,9664.330983,Extended,College,Employed,F,86054,Married,239,12,11,1,Personal Auto,Offer2,Branch,115.166422,Luxury Car,Medsize
+Nevada,8707.619537,Basic,Bachelor,Employed,F,57107,Married,110,27,84,7,Personal Auto,Offer2,Branch,528,SUV,Small
+California,4878.829713,Basic,Doctor,Disabled,F,29950,Married,61,0,76,4,Personal Auto,Offer1,Call Center,292.8,Two-Door Car,Medsize
+Nevada,10793.75704,Extended,College,Employed,F,24195,Married,90,32,70,2,Personal Auto,Offer1,Branch,360.269404,Two-Door Car,Large
+Nevada,7486.019078,Basic,Bachelor,Unemployed,F,0,Divorced,71,14,62,2,Corporate Auto,Offer3,Call Center,340.8,Four-Door Car,Medsize
+California,7379.456823,Basic,Bachelor,Employed,F,61584,Married,61,18,93,2,Corporate Auto,Offer1,Agent,205.294927,Four-Door Car,Medsize
+California,4470.181084,Extended,College,Unemployed,F,0,Single,129,2,72,1,Personal Auto,Offer4,Web,928.8,SUV,Medsize
+Nevada,7492.055949,Basic,College,Employed,F,39815,Divorced,64,17,68,2,Special Auto,Offer3,Branch,91.391245,Four-Door Car,Medsize
+California,3427.154407,Extended,Master,Employed,F,58840,Single,86,25,44,1,Corporate Auto,Offer1,Agent,73.27252,Two-Door Car,Medsize
+Washington,5181.620895,Basic,Master,Employed,F,97131,Married,64,5,80,6,Special Auto,Offer2,Agent,307.2,Four-Door Car,Small
+Arizona,4313.34397,Extended,College,Unemployed,F,0,Single,126,2,96,1,Personal Auto,Offer1,Branch,656.57161,SUV,Large
+Nevada,7792.067056,Basic,Master,Employed,F,36776,Divorced,65,21,21,2,Corporate Auto,Offer1,Call Center,240.186527,Four-Door Car,Medsize
+California,11510.36033,Basic,Bachelor,Unemployed,F,0,Married,61,11,39,2,Corporate Auto,Offer3,Agent,439.2,Four-Door Car,Medsize
+California,13333.38849,Premium,Bachelor,Employed,F,75634,Married,110,13,52,2,Personal Auto,Offer1,Agent,432.805382,Two-Door Car,Medsize
+Nevada,5279.198664,Basic,Bachelor,Employed,F,77167,Divorced,66,15,99,3,Personal Auto,Offer2,Call Center,137.086695,Four-Door Car,Medsize
+California,5244.550942,Basic,College,Employed,F,27444,Married,66,21,88,3,Personal Auto,Offer3,Web,313.931213,Four-Door Car,Large
+Arizona,2913.493264,Basic,College,Employed,F,89672,Married,72,7,92,1,Personal Auto,Offer2,Agent,309.568636,Four-Door Car,Medsize
+California,5243.446345,Basic,Bachelor,Employed,F,96535,Single,66,11,85,3,Personal Auto,Offer1,Agent,271.074379,Four-Door Car,Medsize
+Nevada,9426.384787,Extended,College,Employed,F,38910,Married,78,3,78,2,Personal Auto,Offer2,Branch,20.209679,Two-Door Car,Medsize
+Nevada,7844.252972,Basic,Bachelor,Unemployed,F,0,Married,102,20,46,3,Personal Auto,Offer1,Web,273.945412,SUV,Large
+California,6674.455913,Extended,Bachelor,Employed,F,92653,Married,83,15,80,6,Personal Auto,Offer1,Agent,456.519419,Four-Door Car,Medsize
+Nevada,33473.34946,Basic,Bachelor,Employed,F,33190,Divorced,106,18,95,2,Personal Auto,Offer1,Web,508.8,SUV,Medsize
+California,10179.71704,Premium,Bachelor,Retired,F,14290,Married,271,20,40,1,Personal Auto,Offer1,Agent,1300.8,Luxury SUV,Medsize
+California,8632.783576,Premium,Bachelor,Employed,F,96200,Married,107,9,45,3,Personal Auto,Offer2,Web,513.6,Two-Door Car,Small
+California,7690.159642,Basic,Bachelor,Employed,F,55843,Married,64,3,80,2,Corporate Auto,Offer1,Call Center,307.2,Two-Door Car,Medsize
+California,8259.1108,Extended,Bachelor,Disabled,F,20305,Single,76,14,63,2,Personal Auto,Offer2,Call Center,496.477418,Two-Door Car,Medsize
+California,2659.70565,Extended,College,Unemployed,F,0,Divorced,87,4,4,1,Personal Auto,Offer2,Agent,420.041981,Four-Door Car,Medsize
+California,2582.408525,Basic,Bachelor,Employed,F,76731,Married,64,2,68,1,Personal Auto,Offer2,Agent,201.455005,Four-Door Car,Medsize
+Arizona,4173.140695,Basic,Bachelor,Unemployed,F,0,Single,117,10,37,1,Personal Auto,Offer1,Agent,842.4,SUV,Medsize
+California,8044.511759,Basic,Bachelor,Employed,F,68849,Married,67,9,67,2,Corporate Auto,Offer2,Call Center,252.699037,Two-Door Car,Medsize
+Nevada,20018.20459,Basic,Bachelor,Employed,F,65900,Married,62,17,41,2,Personal Auto,Offer1,Agent,297.6,Four-Door Car,Medsize
+Washington,4698.759935,Basic,Bachelor,Unemployed,F,0,Single,67,27,71,6,Personal Auto,Offer1,Agent,321.6,Two-Door Car,Medsize
+Nevada,11130.11974,Extended,Bachelor,Employed,F,42928,Married,93,20,65,2,Personal Auto,Offer1,Call Center,651.623195,Four-Door Car,Large
+Washington,2610.369217,Basic,Bachelor,Employed,F,54737,Single,66,3,86,1,Personal Auto,Offer3,Web,391.970334,Four-Door Car,Medsize
+Washington,4946.960039,Basic,College,Employed,F,46239,Single,67,17,1,4,Personal Auto,Offer3,Web,6.395416,Four-Door Car,Medsize
+Nevada,15613.95173,Premium,Bachelor,Employed,F,27514,Married,197,12,97,8,Personal Auto,Offer1,Call Center,1367.199081,SUV,Medsize
+Arizona,2598.061204,Basic,Bachelor,Employed,F,62566,Married,65,4,3,1,Corporate Auto,Offer3,Branch,48.344273,Four-Door Car,Medsize
+Washington,6252.3631,Extended,Master,Employed,F,92895,Married,77,5,2,7,Personal Auto,Offer2,Call Center,43.14147,Two-Door Car,Small
+California,5174.689686,Basic,College,Employed,F,55290,Married,65,26,33,4,Personal Auto,Offer2,Branch,13.874775,Four-Door Car,Medsize
+California,9263.179837,Premium,Bachelor,Employed,F,23377,Married,116,15,19,3,Personal Auto,Offer2,Web,556.8,Four-Door Car,Medsize
+California,4834.710493,Basic,College,Employed,F,38713,Divorced,66,31,69,6,Personal Auto,Offer2,Call Center,316.8,Four-Door Car,Medsize
+Arizona,2361.742243,Basic,Bachelor,Unemployed,F,0,Married,66,17,92,1,Personal Auto,Offer1,Agent,145.896438,Four-Door Car,Medsize
+Arizona,4995.1712,Basic,College,Retired,F,10787,Divorced,71,33,25,8,Personal Auto,Offer1,Agent,697.798804,Two-Door Car,Small
+Arizona,8719.896238,Basic,College,Employed,F,59763,Married,73,4,31,2,Personal Auto,Offer4,Agent,350.4,Two-Door Car,Small
+California,22448.68617,Extended,College,Unemployed,F,0,Single,78,7,63,2,Special Auto,Offer1,Agent,561.6,Four-Door Car,Medsize
+Arizona,6864.647514,Extended,College,Employed,F,96832,Married,85,19,23,3,Personal Auto,Offer1,Branch,408,Two-Door Car,Small
+California,4980.18765,Extended,College,Disabled,F,21135,Married,130,14,59,1,Personal Auto,Offer3,Call Center,678.946216,SUV,Medsize
+Arizona,5417.744055,Basic,College,Employed,F,54898,Single,69,25,32,9,Corporate Auto,Offer1,Call Center,176.242159,Two-Door Car,Small
+California,7980.304624,Basic,College,Retired,F,15630,Divorced,115,8,60,3,Personal Auto,Offer1,Web,656.775467,SUV,Medsize
+Arizona,5107.163002,Basic,Bachelor,Employed,F,35625,Married,65,10,56,3,Personal Auto,Offer2,Agent,288.572108,Four-Door Car,Medsize
+Arizona,4643.413135,Extended,Bachelor,Disabled,F,12261,Divorced,125,26,80,1,Personal Auto,Offer1,Call Center,600,SUV,Medsize
+California,11373.98852,Extended,Master,Employed,F,87810,Married,94,15,26,2,Personal Auto,Offer3,Agent,225.641724,Four-Door Car,Medsize
+Washington,2410.355726,Basic,Bachelor,Unemployed,F,0,Single,67,5,53,1,Personal Auto,Offer2,Agent,482.4,Two-Door Car,Medsize
+Washington,9031.214859,Extended,Master,Unemployed,F,0,Single,122,15,47,9,Corporate Auto,Offer1,Branch,650.52179,Sports Car,Medsize
+California,5093.379714,Basic,Bachelor,Employed,F,91814,Married,63,30,99,3,Personal Auto,Offer3,Call Center,167.037619,Two-Door Car,Medsize
+Nevada,3438.949322,Extended,Bachelor,Employed,F,55910,Married,86,4,3,1,Personal Auto,Offer1,Call Center,324.348688,Four-Door Car,Medsize
+Arizona,7824.492263,Basic,Bachelor,Employed,F,64543,Married,65,1,84,2,Personal Auto,Offer2,Call Center,200.177163,Four-Door Car,Medsize
+Arizona,2775.080095,Basic,College,Disabled,F,29051,Married,73,31,79,1,Personal Auto,Offer1,Agent,153.200014,Two-Door Car,Medsize
+Arizona,5792.666316,Basic,Bachelor,Employed,F,87382,Married,72,26,65,5,Personal Auto,Offer2,Web,345.6,Four-Door Car,Large
+California,3596.83011,Extended,College,Employed,F,30694,Married,91,22,23,1,Personal Auto,Offer1,Agent,436.8,Four-Door Car,Small
+California,7205.019561,Basic,College,Unemployed,F,0,Single,64,27,62,2,Corporate Auto,Offer1,Web,505.975326,Four-Door Car,Small
+Washington,5688.20499,Basic,Bachelor,Employed,F,44833,Divorced,72,24,59,3,Personal Auto,Offer1,Agent,345.6,Two-Door Car,Medsize
+Nevada,5736.45893,Basic,Bachelor,Employed,F,96917,Married,71,31,16,9,Personal Auto,Offer2,Agent,373.047039,Two-Door Car,Medsize
+Arizona,11828.61437,Basic,College,Unemployed,F,0,Single,111,4,8,2,Personal Auto,Offer2,Call Center,1018.808223,SUV,Medsize
+Arizona,4212.8026,Premium,College,Disabled,F,10097,Married,110,17,69,1,Personal Auto,Offer1,Web,218.635593,Four-Door Car,Medsize
+California,5553.18672,Extended,College,Employed,F,33255,Married,138,0,20,1,Personal Auto,Offer1,Branch,662.4,Sports Car,Medsize
+Arizona,2248.449633,Basic,Bachelor,Retired,F,24910,Single,63,7,63,1,Personal Auto,Offer1,Branch,347.857619,Four-Door Car,Medsize
+California,3681.978995,Extended,Master,Employed,F,77951,Married,93,28,46,1,Corporate Auto,Offer4,Branch,19.668633,Two-Door Car,Medsize
+California,7373.225991,Basic,College,Employed,F,44938,Married,183,7,37,1,Personal Auto,Offer2,Branch,2069.309854,Luxury Car,Large
+Washington,4883.335068,Extended,College,Employed,F,40171,Married,123,13,23,1,Personal Auto,Offer2,Call Center,576.880144,SUV,Medsize
+Nevada,7372.230729,Basic,Bachelor,Employed,F,74335,Single,187,3,4,1,Corporate Auto,Offer3,Agent,896.436023,Luxury Car,Small
+California,12625.27947,Premium,Bachelor,Employed,F,79421,Married,104,2,85,2,Personal Auto,Offer1,Agent,115.126739,Four-Door Car,Medsize
+Arizona,4895.811925,Basic,College,Employed,F,54495,Married,61,7,3,8,Personal Auto,Offer1,Branch,182.350945,Four-Door Car,Medsize
+California,2602.212965,Basic,College,Disabled,F,28995,Married,67,28,42,1,Personal Auto,Offer2,Branch,321.6,Four-Door Car,Medsize
+California,2292.791874,Basic,Bachelor,Unemployed,F,0,Single,64,18,30,1,Personal Auto,Offer1,Branch,460.8,Two-Door Car,Medsize
+Arizona,9234.277026,Extended,College,Unemployed,F,0,Single,134,29,43,6,Corporate Auto,Offer1,Branch,643.2,SUV,Medsize
+Washington,6265.343299,Extended,Doctor,Unemployed,F,0,Married,84,18,25,4,Personal Auto,Offer1,Agent,481.025786,Four-Door Car,Medsize
+Washington,4749.127521,Extended,Bachelor,Unemployed,F,0,Married,123,33,35,1,Personal Auto,Offer3,Call Center,590.4,SUV,Medsize
+California,7805.31287,Basic,College,Retired,F,21073,Divorced,106,25,54,3,Personal Auto,Offer1,Agent,508.8,SUV,Small
+Arizona,9642.214529,Extended,Bachelor,Employed,F,36108,Divorced,128,5,35,9,Personal Auto,Offer3,Agent,614.4,SUV,Large
+California,2525.419695,Basic,Doctor,Unemployed,F,0,Married,67,9,37,1,Corporate Auto,Offer4,Agent,146.301396,Four-Door Car,Large
+California,4569.8758,Extended,Bachelor,Unemployed,F,0,Married,124,32,75,1,Personal Auto,Offer2,Call Center,250.723005,SUV,Large
+Nevada,8571.480718,Premium,Bachelor,Employed,F,56202,Married,107,19,33,8,Personal Auto,Offer2,Agent,513.511091,Two-Door Car,Medsize
+Arizona,3799.746262,Premium,College,Unemployed,F,0,Married,102,1,99,1,Personal Auto,Offer1,Branch,489.6,Four-Door Car,Large
+California,6991.614179,Extended,Master,Employed,F,66346,Married,87,15,7,4,Personal Auto,Offer4,Agent,78.179743,Four-Door Car,Large
+California,13749.37083,Premium,College,Employed,F,82753,Married,114,3,42,2,Personal Auto,Offer1,Web,264.666921,Four-Door Car,Medsize
+Arizona,7296.493236,Basic,College,Unemployed,F,0,Divorced,67,29,88,2,Personal Auto,Offer1,Web,321.6,Two-Door Car,Medsize
+Arizona,7840.646748,Extended,Bachelor,Unemployed,F,0,Single,76,17,34,2,Personal Auto,Offer2,Agent,364.8,Four-Door Car,Large
+Arizona,7441.004843,Basic,College,Employed,F,91915,Divorced,186,0,91,1,Personal Auto,Offer1,Call Center,93.56694,Luxury Car,Medsize
+Nevada,11981.98481,Basic,Master,Retired,F,21514,Married,62,0,59,2,Special Auto,Offer1,Agent,257.248789,Two-Door Car,Medsize
+California,4163.04081,Basic,College,Employed,F,43276,Married,104,16,11,1,Personal Auto,Offer2,Call Center,499.2,SUV,Large
+Arizona,4048.722426,Premium,Bachelor,Unemployed,F,0,Single,118,9,26,1,Personal Auto,Offer1,Web,566.4,Four-Door Car,Small
+California,10288.92495,Extended,Bachelor,Employed,F,96337,Married,127,19,12,3,Personal Auto,Offer3,Branch,609.6,SUV,Medsize
+California,4061.997378,Basic,College,Employed,F,30061,Single,104,4,22,1,Special Auto,Offer1,Web,499.2,Sports Car,Large
+California,4949.389491,Extended,Bachelor,Unemployed,F,0,Single,134,15,3,1,Corporate Auto,Offer2,Branch,964.8,Sports Car,Small
+Nevada,4170.687348,Basic,Master,Employed,F,29462,Single,107,28,23,1,Corporate Auto,Offer2,Branch,513.6,SUV,Large
+California,2858.087414,Basic,Master,Employed,F,27382,Married,71,33,35,1,Personal Auto,Offer2,Web,134.104322,Four-Door Car,Medsize
+California,6282.082435,Extended,Bachelor,Employed,F,32311,Married,79,10,23,3,Corporate Auto,Offer1,Agent,207.289724,Four-Door Car,Large
+California,8099.466122,Basic,Bachelor,Unemployed,F,0,Divorced,112,19,42,6,Personal Auto,Offer1,Branch,438.812143,SUV,Medsize
+Arizona,4834.710493,Basic,College,Employed,F,38713,Divorced,66,31,69,6,Personal Auto,Offer2,Call Center,316.8,Four-Door Car,Medsize
+California,11009.13049,Premium,Bachelor,Employed,F,51643,Single,283,16,43,1,Personal Auto,Offer2,Agent,1358.4,Luxury Car,Medsize
+Arizona,5558.31428,Premium,Bachelor,Unemployed,F,0,Single,188,5,61,1,Personal Auto,Offer3,Agent,2156.011022,SUV,Medsize
+Nevada,24108.30057,Basic,Bachelor,Disabled,F,17257,Single,70,1,88,2,Personal Auto,Offer1,Call Center,551.132139,Four-Door Car,Small
+California,2611.128028,Basic,Master,Employed,F,90349,Divorced,64,31,77,1,Personal Auto,Offer4,Branch,435.7186,Four-Door Car,Medsize
+California,4670.953723,Basic,College,Unemployed,F,0,Divorced,64,25,89,4,Corporate Auto,Offer2,Call Center,181.810486,Four-Door Car,Medsize
+Washington,28119.28723,Extended,Bachelor,Employed,F,68211,Married,99,9,21,2,Corporate Auto,Offer2,Branch,475.2,Four-Door Car,Small
+Arizona,8219.358756,Premium,Bachelor,Employed,F,28445,Married,103,18,72,6,Special Auto,Offer1,Agent,427.762841,Two-Door Car,Medsize
+Nevada,4803.24007,Basic,College,Employed,F,37313,Single,62,34,39,6,Personal Auto,Offer3,Branch,246.57631,Four-Door Car,Medsize
+California,3425.73115,Extended,College,Employed,F,29194,Single,89,28,31,1,Personal Auto,Offer2,Agent,424.466821,Four-Door Car,Medsize
+Arizona,8609.158215,Basic,Bachelor,Employed,F,79090,Married,107,2,74,3,Personal Auto,Offer2,Branch,289.040734,SUV,Medsize
+Washington,4605.036646,Basic,College,Medical Leave,F,22571,Single,63,29,51,9,Personal Auto,Offer2,Web,302.4,Four-Door Car,Large
+Arizona,3465.52691,Extended,Master,Employed,F,48744,Single,86,3,59,1,Personal Auto,Offer1,Agent,412.8,Two-Door Car,Small
+Arizona,5176.157299,Basic,Master,Employed,F,91475,Divorced,64,28,35,3,Personal Auto,Offer1,Agent,73.295606,Four-Door Car,Medsize
+California,5217.513287,Basic,Bachelor,Employed,F,39854,Divorced,66,6,4,7,Corporate Auto,Offer2,Web,261.930545,Two-Door Car,Medsize
+Arizona,8002.308333,Basic,College,Unemployed,F,0,Married,107,3,65,3,Personal Auto,Offer1,Agent,513.6,SUV,Medsize
+Nevada,15563.36944,Premium,Bachelor,Unemployed,F,0,Married,253,15,40,7,Personal Auto,Offer3,Web,1214.4,Luxury Car,Medsize
+Washington,4723.821588,Premium,Bachelor,Employed,F,21546,Married,119,20,66,1,Corporate Auto,Offer3,Agent,625.395925,Two-Door Car,Medsize
+Arizona,8436.350708,Basic,Bachelor,Employed,F,49182,Married,70,6,86,2,Personal Auto,Offer1,Web,165.410515,Two-Door Car,Medsize
+California,7153.208425,Extended,Bachelor,Employed,F,32238,Divorced,91,15,80,4,Personal Auto,Offer3,Branch,439.781453,Four-Door Car,Medsize
+California,6990.691643,Basic,College,Unemployed,F,0,Single,68,24,2,2,Personal Auto,Offer2,Web,326.4,Four-Door Car,Large
+Arizona,2422.194555,Basic,Doctor,Employed,F,25036,Married,61,11,30,1,Corporate Auto,Offer2,Agent,292.8,Four-Door Car,Large
+Washington,7765.228166,Extended,Bachelor,Employed,F,56337,Married,97,26,25,3,Personal Auto,Offer4,Web,465.6,Four-Door Car,Medsize
+California,10193.77423,Extended,Bachelor,Employed,F,21119,Married,128,1,79,4,Personal Auto,Offer1,Branch,614.4,SUV,Medsize
+Arizona,5294.230247,Basic,Doctor,Unemployed,F,0,Married,70,9,19,3,Personal Auto,Offer2,Call Center,20.521312,Four-Door Car,Medsize
+Washington,2666.976685,Basic,Bachelor,Employed,F,79251,Married,67,10,32,1,Personal Auto,Offer2,Web,321.6,Four-Door Car,Medsize
+California,7423.929008,Basic,College,Unemployed,F,0,Single,107,27,27,9,Personal Auto,Offer1,Branch,513.6,SUV,Medsize
+California,7850.590399,Basic,College,Unemployed,F,0,Married,69,5,78,2,Corporate Auto,Offer4,Web,331.2,Four-Door Car,Medsize
+California,3210.417377,Extended,Bachelor,Unemployed,F,0,Divorced,88,3,8,1,Personal Auto,Offer1,Web,325.917598,Four-Door Car,Large
+California,5403.586356,Basic,Bachelor,Employed,F,72633,Married,67,28,91,8,Personal Auto,Offer1,Agent,155.761761,Four-Door Car,Medsize
+California,7540.390159,Basic,Bachelor,Unemployed,F,0,Single,68,24,42,2,Personal Auto,Offer1,Branch,519.757811,Two-Door Car,Small
+Nevada,14316.84569,Premium,Bachelor,Employed,F,97379,Divorced,119,10,62,2,Personal Auto,Offer1,Web,354.764801,Four-Door Car,Medsize
+Arizona,10179.71704,Premium,Bachelor,Retired,F,14290,Married,271,20,40,1,Personal Auto,Offer1,Agent,1300.8,Luxury SUV,Medsize
+Arizona,10130.93442,Extended,Doctor,Employed,F,59232,Divorced,85,6,75,2,Corporate Auto,Offer3,Branch,408,Two-Door Car,Medsize
+Washington,7615.369665,Basic,College,Employed,F,90918,Single,64,22,19,2,Personal Auto,Offer3,Agent,163.411884,Four-Door Car,Medsize
+Arizona,4820.704584,Basic,College,Employed,F,27872,Married,61,19,78,3,Personal Auto,Offer2,Branch,186.857059,Two-Door Car,Medsize
+California,2675.029491,Basic,Master,Employed,F,55479,Single,68,5,7,1,Personal Auto,Offer2,Branch,117.964245,Four-Door Car,Medsize
+Nevada,3352.87052,Extended,College,Employed,F,95438,Married,83,25,76,1,Corporate Auto,Offer2,Call Center,99.223092,Two-Door Car,Medsize
+California,11638.89947,Basic,College,Medical Leave,F,25370,Married,102,10,77,2,Personal Auto,Offer1,Branch,489.6,Sports Car,Large
+California,19160.98994,Extended,Master,Employed,F,22705,Divorced,239,19,59,7,Personal Auto,Offer2,Agent,1294.700423,Luxury SUV,Medsize
+Washington,5225.253777,Basic,College,Employed,F,67423,Married,65,24,0,9,Corporate Auto,Offer3,Agent,293.308765,Four-Door Car,Medsize
+California,3571.82831,Extended,Bachelor,Employed,F,74931,Divorced,89,13,16,1,Personal Auto,Offer1,Agent,230.84972,Two-Door Car,Large
+California,38887.9034,Premium,Bachelor,Employed,F,44299,Married,107,0,73,2,Personal Auto,Offer2,Branch,180.085807,Two-Door Car,Medsize
+California,2438.689804,Basic,Bachelor,Employed,F,80927,Single,62,25,8,1,Personal Auto,Offer2,Branch,211.660971,Two-Door Car,Medsize
+California,5692.684466,Basic,College,Employed,F,86073,Married,70,2,96,3,Personal Auto,Offer3,Branch,291.587866,Two-Door Car,Medsize
+California,5263.921634,Extended,College,Employed,F,82528,Married,131,10,65,1,Personal Auto,Offer2,Agent,258.036918,Sports Car,Small
+California,4347.159852,Basic,College,Employed,F,38223,Married,112,27,18,1,Personal Auto,Offer3,Branch,537.6,SUV,Medsize
+California,5246.278375,Basic,Bachelor,Employed,F,28909,Married,66,15,66,8,Corporate Auto,Offer1,Agent,456.702735,Two-Door Car,Medsize
+Nevada,2744.73543,Basic,Doctor,Employed,F,35159,Married,68,0,73,1,Personal Auto,Offer1,Agent,150.501033,Two-Door Car,Large
+California,6013.038073,Extended,College,Unemployed,F,0,Single,84,8,30,7,Personal Auto,Offer3,Agent,604.8,Four-Door Car,Small
+Nevada,3650.576237,Extended,College,Employed,F,88842,Married,90,32,42,1,Personal Auto,Offer4,Branch,350.75997,Two-Door Car,Large
+Arizona,2395.57,Basic,Doctor,Disabled,F,21986,Divorced,63,1,9,1,Personal Auto,Offer2,Branch,333.696228,Two-Door Car,Medsize
+Arizona,6755.076276,Extended,College,Employed,F,29881,Married,85,27,95,6,Personal Auto,Offer1,Call Center,17.92017,Four-Door Car,Medsize
+California,11315.20373,Premium,Bachelor,Disabled,F,11885,Divorced,101,18,39,2,Personal Auto,Offer1,Agent,484.8,Four-Door Car,Medsize
+Nevada,2668.731444,Basic,Doctor,Employed,F,52344,Married,66,4,7,1,Personal Auto,Offer3,Agent,182.607687,Four-Door Car,Small
+Arizona,29973.41592,Extended,Bachelor,Employed,F,48471,Married,83,5,20,2,Personal Auto,Offer1,Call Center,208.904212,Four-Door Car,Medsize
+Nevada,31234.89323,Extended,Bachelor,Employed,F,70164,Divorced,88,34,3,2,Personal Auto,Offer2,Agent,375.401079,Two-Door Car,Medsize
+Nevada,5096.673223,Basic,Master,Disabled,F,22886,Divorced,65,9,81,3,Corporate Auto,Offer1,Agent,312,Four-Door Car,Small
+Arizona,5896.536531,Basic,College,Employed,F,39293,Married,74,17,48,6,Personal Auto,Offer2,Web,352.740946,Two-Door Car,Medsize
+Nevada,11389.94398,Extended,Bachelor,Employed,F,58187,Married,95,18,39,2,Personal Auto,Offer4,Branch,76.73348,Two-Door Car,Medsize
+Nevada,8099.40027,Basic,Bachelor,Employed,F,60932,Married,101,7,35,3,Corporate Auto,Offer1,Agent,484.8,SUV,Large
+California,4038.864803,Basic,Bachelor,Unemployed,F,0,Married,110,17,59,1,Personal Auto,Offer2,Call Center,528,SUV,Medsize
+California,7781.89849,Extended,Master,Employed,F,57474,Divorced,97,21,44,3,Personal Auto,Offer1,Agent,280.037716,Two-Door Car,Large
+Nevada,4834.710493,Basic,College,Employed,F,38713,Divorced,66,31,69,6,Personal Auto,Offer2,Call Center,316.8,Four-Door Car,Medsize
+Arizona,3452.029549,Extended,College,Employed,F,61385,Married,86,25,35,1,Personal Auto,Offer2,Call Center,199.299449,Four-Door Car,Medsize
+Nevada,8714.922135,Basic,College,Unemployed,F,0,Divorced,118,14,64,4,Personal Auto,Offer1,Agent,566.4,SUV,Medsize
+California,3669.83263,Extended,Bachelor,Unemployed,F,0,Married,95,22,17,1,Personal Auto,Offer3,Agent,429.657692,Four-Door Car,Medsize
+California,5204.64616,Basic,Bachelor,Medical Leave,F,29406,Married,68,33,79,6,Personal Auto,Offer1,Agent,326.4,Four-Door Car,Medsize
+California,7663.514373,Basic,Bachelor,Employed,F,34837,Married,63,32,27,2,Personal Auto,Offer1,Agent,72.828431,Four-Door Car,Medsize
+California,11776.00378,Extended,Master,Employed,F,58881,Married,97,8,51,2,Personal Auto,Offer4,Branch,354.885018,Four-Door Car,Medsize
+Washington,5635.746396,Basic,College,Employed,F,20303,Married,71,24,84,3,Corporate Auto,Offer1,Branch,340.8,Four-Door Car,Small
+Nevada,2839.945741,Basic,Bachelor,Employed,F,53444,Divorced,72,10,67,1,Personal Auto,Offer1,Branch,315.703929,Four-Door Car,Medsize
+California,4651.28429,Basic,College,Employed,F,98475,Married,115,8,22,1,Personal Auto,Offer2,Web,552,SUV,Medsize
+California,5246.278375,Basic,Bachelor,Employed,F,28909,Married,66,15,66,8,Corporate Auto,Offer1,Agent,456.702735,Two-Door Car,Medsize
+California,10611.56172,Extended,College,Unemployed,F,0,Single,96,29,5,2,Personal Auto,Offer3,Branch,949.953253,Four-Door Car,Small
+California,9223.987144,Extended,College,Medical Leave,F,18814,Single,122,20,94,3,Personal Auto,Offer2,Branch,585.6,Sports Car,Medsize
+California,5729.855012,Basic,Master,Employed,F,92254,Married,70,7,94,7,Corporate Auto,Offer3,Call Center,245.593225,Four-Door Car,Medsize
+California,2472.469209,Basic,College,Employed,F,63860,Married,62,26,81,1,Personal Auto,Offer2,Agent,208.598246,Four-Door Car,Medsize
+California,7123.694599,Basic,College,Disabled,F,16139,Married,62,19,69,2,Personal Auto,Offer1,Branch,297.6,Four-Door Car,Large
+California,5318.89664,Basic,Bachelor,Employed,F,25134,Married,67,3,0,6,Personal Auto,Offer2,Call Center,321.6,Four-Door Car,Small
+California,7244.497284,Basic,Bachelor,Unemployed,F,0,Single,103,1,51,3,Personal Auto,Offer2,Agent,494.4,SUV,Small
+California,15558.44195,Basic,Bachelor,Employed,F,62922,Married,194,26,80,7,Corporate Auto,Offer1,Agent,1121.633645,Luxury Car,Medsize
+California,39033.08248,Basic,Bachelor,Unemployed,F,0,Married,180,11,65,2,Personal Auto,Offer2,Call Center,864,Luxury SUV,Medsize
+California,9244.351881,Extended,Doctor,Medical Leave,F,12081,Divorced,82,18,18,2,Personal Auto,Offer3,Agent,548.064933,Two-Door Car,Medsize
+California,9880.097141,Extended,Master,Employed,F,62326,Married,122,8,53,8,Personal Auto,Offer1,Agent,96.00936,SUV,Medsize
+California,5477.206072,Basic,College,Medical Leave,F,21289,Married,71,15,98,3,Corporate Auto,Offer2,Branch,340.8,Four-Door Car,Large
+California,4014.332715,Extended,Master,Employed,F,54054,Married,99,7,55,1,Personal Auto,Offer2,Branch,5.661684,Four-Door Car,Medsize
+California,3674.56826,Extended,College,Employed,F,84814,Married,90,25,60,1,Corporate Auto,Offer4,Call Center,512.816507,Four-Door Car,Medsize
+California,2754.143877,Basic,College,Employed,F,58705,Married,69,19,95,1,Personal Auto,Offer4,Web,48.956424,Two-Door Car,Medsize
+California,4563.859434,Basic,Doctor,Employed,F,62010,Married,112,2,51,1,Personal Auto,Offer2,Agent,537.6,SUV,Medsize
+California,5907.078117,Basic,College,Employed,F,47306,Married,74,8,18,3,Corporate Auto,Offer4,Branch,97.723235,Four-Door Car,Medsize
+California,17666.56543,Basic,Bachelor,Unemployed,F,0,Single,74,6,92,2,Corporate Auto,Offer1,Web,355.2,Two-Door Car,Large
+California,30313.30977,Extended,College,Employed,F,67117,Single,85,10,38,2,Personal Auto,Offer4,Web,329.423177,Two-Door Car,Medsize
+California,4726.869327,Extended,Bachelor,Medical Leave,F,13037,Married,124,28,49,1,Personal Auto,Offer2,Agent,839.348464,SUV,Small
+California,5165.202368,Extended,Master,Disabled,F,12904,Married,132,17,31,1,Personal Auto,Offer1,Agent,633.6,SUV,Medsize
+California,5193.770572,Basic,Master,Employed,F,24948,Married,65,3,51,4,Personal Auto,Offer2,Branch,280.352767,Four-Door Car,Medsize
+California,5363.531017,Basic,Bachelor,Employed,F,43879,Single,69,19,60,5,Corporate Auto,Offer1,Branch,242.133552,Four-Door Car,Medsize
+California,7079.170237,Extended,College,Employed,F,24450,Married,90,4,65,4,Personal Auto,Offer3,Agent,250.959093,Four-Door Car,Medsize
+California,6952.651187,Basic,College,Unemployed,F,0,Single,73,2,38,2,Corporate Auto,Offer2,Agent,525.6,Four-Door Car,Medsize
+California,5520.149969,Basic,Bachelor,Employed,F,26129,Divorced,70,4,38,3,Personal Auto,Offer1,Agent,419.187114,Four-Door Car,Medsize
+California,5040.775434,Basic,Bachelor,Disabled,F,22350,Married,66,9,3,5,Corporate Auto,Offer1,Agent,316.8,Two-Door Car,Large
+California,5654.593045,Extended,Bachelor,Unemployed,F,0,Single,83,0,12,7,Personal Auto,Offer3,Call Center,597.6,Four-Door Car,Medsize
+California,7868.808884,Basic,Bachelor,Unemployed,F,0,Married,107,28,14,7,Personal Auto,Offer1,Agent,513.6,SUV,Small
+California,6411.675304,Extended,Bachelor,Employed,F,47606,Divorced,81,24,50,4,Personal Auto,Offer3,Agent,388.8,Two-Door Car,Small
+California,10144.3094,Extended,College,Medical Leave,F,27231,Married,88,0,7,2,Personal Auto,Offer1,Branch,422.4,Four-Door Car,Medsize
+California,8575.961719,Extended,College,Employed,F,39946,Divorced,218,23,99,1,Personal Auto,Offer1,Branch,1046.4,Luxury SUV,Small
+California,3746.751625,Extended,College,Employed,F,41479,Married,94,14,38,1,Corporate Auto,Offer2,Call Center,19.575683,Two-Door Car,Large
+California,13265.51039,Basic,Bachelor,Employed,F,99617,Married,109,1,62,2,Personal Auto,Offer3,Agent,74.934678,SUV,Medsize
+California,5246.278375,Basic,Bachelor,Employed,F,28909,Married,66,15,66,8,Personal Auto,Offer1,Agent,456.702735,Two-Door Car,Medsize
+California,5824.767025,Basic,Bachelor,Employed,F,38492,Married,72,27,34,3,Personal Auto,Offer2,Branch,207.901654,Four-Door Car,Medsize
+California,5138.244998,Basic,Bachelor,Employed,F,72264,Married,64,2,66,9,Corporate Auto,Offer3,Web,272.649844,Four-Door Car,Medsize
+California,40132.01135,Extended,Bachelor,Employed,F,98710,Married,123,21,42,2,Personal Auto,Offer2,Branch,587.391029,Sports Car,Medsize
+California,5095.365993,Basic,Bachelor,Employed,F,69461,Single,64,7,61,6,Personal Auto,Offer3,Branch,101.417253,Two-Door Car,Large
+California,10351.37265,Extended,College,Employed,F,73895,Married,129,2,31,7,Corporate Auto,Offer4,Branch,825.416826,SUV,Medsize
+California,8201.330033,Basic,Master,Employed,F,81785,Divorced,67,12,44,2,Personal Auto,Offer1,Agent,321.6,Four-Door Car,Large
+California,2248.449633,Basic,Bachelor,Retired,F,24910,Single,63,7,63,1,Personal Auto,Offer1,Branch,347.857619,Four-Door Car,Medsize
+California,8002.308333,Basic,College,Unemployed,F,0,Married,107,3,65,3,Personal Auto,Offer1,Agent,513.6,SUV,Medsize
+California,5860.48309,Basic,Bachelor,Employed,F,36889,Married,74,24,82,3,Personal Auto,Offer1,Agent,192.186026,Four-Door Car,Medsize
+California,9115.57169,Basic,Bachelor,Employed,F,69588,Married,114,19,45,6,Personal Auto,Offer1,Branch,173.080024,SUV,Medsize
+California,3630.269217,Basic,Bachelor,Unemployed,F,0,Single,101,34,53,1,Corporate Auto,Offer2,Web,727.2,SUV,Small
+California,2435.321545,Basic,College,Employed,F,43721,Married,61,5,84,1,Personal Auto,Offer2,Branch,292.8,Four-Door Car,Small
+California,2628.563096,Basic,College,Employed,F,84498,Married,65,18,83,1,Personal Auto,Offer2,Branch,255.210049,Four-Door Car,Medsize
+California,10013.77995,Extended,Bachelor,Unemployed,F,0,Married,135,26,38,3,Personal Auto,Offer2,Branch,773.690268,Sports Car,Medsize
+California,11288.17204,Basic,College,Employed,F,96399,Married,70,1,28,2,Personal Auto,Offer2,Agent,307.89535,Four-Door Car,Medsize
+California,14627.92807,Extended,College,Employed,F,40711,Married,121,12,38,2,Personal Auto,Offer3,Web,580.8,SUV,Medsize
+California,4298.378567,Basic,Bachelor,Employed,F,31414,Married,116,0,68,1,Personal Auto,Offer1,Call Center,556.8,SUV,Medsize
+California,5018.894421,Basic,Doctor,Employed,F,74423,Married,62,31,10,5,Personal Auto,Offer2,Agent,50.800186,Four-Door Car,Medsize
+California,7200.664877,Basic,College,Unemployed,F,0,Married,66,16,77,2,Personal Auto,Offer2,Agent,316.8,Four-Door Car,Medsize
+California,9591.028253,Extended,Bachelor,Unemployed,F,0,Married,128,23,27,6,Corporate Auto,Offer1,Call Center,150.952506,SUV,Medsize
+California,2499.036551,Basic,Master,Employed,F,28264,Divorced,63,22,9,1,Corporate Auto,Offer2,Agent,364.622773,Two-Door Car,Small
+California,5811.61185,Extended,College,Unemployed,F,0,Married,79,10,22,8,Personal Auto,Offer3,Agent,304.550129,Four-Door Car,Medsize
+California,18732.2012,Basic,College,Employed,F,70187,Married,117,4,61,2,Personal Auto,Offer3,Call Center,632.16097,Sports Car,Medsize
+California,5260.623466,Basic,Bachelor,Employed,F,31006,Divorced,67,20,16,4,Personal Auto,Offer2,Call Center,321.6,Four-Door Car,Medsize
+California,2701.039719,Basic,College,Employed,F,39141,Married,68,22,7,1,Personal Auto,Offer2,Branch,402.456296,Four-Door Car,Small
+California,6785.536334,Premium,Bachelor,Unemployed,F,0,Single,197,6,22,1,Corporate Auto,Offer1,Agent,1439.676002,Sports Car,Small
+California,7452.939191,Basic,Bachelor,Unemployed,F,0,Single,106,5,32,4,Personal Auto,Offer1,Web,763.2,SUV,Medsize
+California,4312.642503,Basic,Master,Disabled,F,25404,Divorced,112,16,4,1,Personal Auto,Offer1,Branch,578.175234,SUV,Medsize
+California,6781.125672,Extended,College,Employed,F,30324,Divorced,86,15,67,8,Corporate Auto,Offer1,Call Center,143.943749,Four-Door Car,Medsize
+California,4985.239225,Basic,College,Employed,F,31702,Married,63,13,3,7,Personal Auto,Offer1,Web,302.4,Four-Door Car,Medsize
+California,6725.043747,Extended,College,Unemployed,F,0,Single,95,15,8,5,Corporate Auto,Offer1,Agent,684,Four-Door Car,Medsize
+California,12206.89208,Premium,College,Disabled,F,17705,Married,108,7,19,2,Personal Auto,Offer2,Agent,668.73901,Two-Door Car,Medsize
+California,2670.797821,Basic,Bachelor,Unemployed,F,0,Single,72,18,41,1,Corporate Auto,Offer1,Web,366.277224,Four-Door Car,Medsize
+California,8033.910862,Basic,College,Employed,F,70311,Married,66,18,15,2,Personal Auto,Offer1,Branch,341.395103,Two-Door Car,Medsize
+California,9685.542977,Extended,Bachelor,Employed,F,66022,Married,239,17,80,1,Personal Auto,Offer4,Web,538.229502,Luxury Car,Medsize
+California,10453.2558,Extended,Bachelor,Employed,F,73604,Divorced,88,12,75,2,Corporate Auto,Offer2,Agent,398.19284,Two-Door Car,Medsize
+California,2671.166649,Basic,Master,Medical Leave,F,23305,Married,68,25,26,1,Personal Auto,Offer2,Branch,127.157137,Four-Door Car,Medsize
+California,13422.06378,Basic,College,Employed,F,65024,Married,67,17,15,2,Personal Auto,Offer2,Call Center,189.869329,Four-Door Car,Medsize
+California,2424.224662,Basic,Bachelor,Disabled,F,22590,Single,67,7,61,1,Personal Auto,Offer1,Call Center,85.68352,Two-Door Car,Medsize
+California,14723.40712,Extended,Master,Employed,F,38401,Married,92,17,62,2,Corporate Auto,Offer1,Agent,441.6,Four-Door Car,Medsize
+California,11378.88711,Extended,Bachelor,Employed,F,34854,Married,95,35,50,2,Corporate Auto,Offer2,Call Center,456,Four-Door Car,Medsize
+California,5219.754045,Basic,College,Employed,F,48203,Divorced,66,20,47,6,Personal Auto,Offer4,Call Center,413.238845,Four-Door Car,Medsize
+California,4762.557323,Basic,Bachelor,Medical Leave,F,16656,Married,63,11,53,9,Personal Auto,Offer1,Branch,302.4,Two-Door Car,Medsize
+California,4975.171042,Extended,Master,Employed,F,44723,Married,124,26,3,1,Personal Auto,Offer1,Call Center,341.088276,SUV,Medsize
+California,4849.697945,Basic,College,Employed,F,36413,Married,61,21,76,3,Personal Auto,Offer1,Branch,153.013115,Four-Door Car,Medsize
+California,8518.549119,Basic,Doctor,Unemployed,F,0,Married,112,19,86,8,Personal Auto,Offer2,Branch,537.6,Sports Car,Medsize
+California,14070.63897,Extended,College,Unemployed,F,0,Single,127,0,71,2,Corporate Auto,Offer1,Web,677.868206,SUV,Medsize
+California,11435.23124,Basic,College,Disabled,F,12470,Married,103,30,52,2,Corporate Auto,Offer1,Agent,618.688651,SUV,Medsize
+California,5893.368906,Basic,Bachelor,Employed,F,86498,Married,74,13,13,5,Personal Auto,Offer3,Agent,8.529778,Two-Door Car,Medsize
+California,8256.2978,Basic,Bachelor,Employed,F,62902,Married,69,14,94,2,Personal Auto,Offer2,Web,159.383042,Two-Door Car,Medsize
+California,2460.167359,Basic,College,Employed,F,69241,Married,61,14,84,1,Personal Auto,Offer3,Web,47.95916,Four-Door Car,Small
+California,4916.479717,Basic,Bachelor,Unemployed,F,0,Single,65,21,61,7,Personal Auto,Offer1,Agent,312,Two-Door Car,Large
+California,3673.525732,Extended,Bachelor,Employed,F,69555,Single,92,16,59,1,Personal Auto,Offer1,Agent,255.277041,Four-Door Car,Medsize
+California,4889.765364,Basic,Bachelor,Employed,F,46819,Divorced,62,15,0,5,Personal Auto,Offer1,Agent,157.990123,Four-Door Car,Large
+California,10537.40467,Basic,Master,Employed,F,47950,Married,65,27,14,2,Personal Auto,Offer3,Call Center,301.867895,Four-Door Car,Large
+California,4564.512659,Basic,Master,Medical Leave,F,12626,Single,69,31,15,3,Personal Auto,Offer4,Branch,331.2,Four-Door Car,Small
+California,2591.749798,Basic,College,Employed,F,56701,Married,65,34,36,1,Personal Auto,Offer4,Web,333.441673,Four-Door Car,Small
+California,5205.256308,Basic,Bachelor,Employed,F,53614,Married,65,25,70,5,Personal Auto,Offer1,Agent,725.849253,Four-Door Car,Small
+California,35186.25611,Extended,Bachelor,Employed,F,86134,Divorced,98,17,78,2,Corporate Auto,Offer1,Agent,3.246203,Two-Door Car,Small
+California,14980.04626,Extended,Bachelor,Unemployed,F,0,Single,222,26,50,8,Personal Auto,Offer1,Branch,1123.485329,Luxury Car,Medsize
+California,4773.656279,Basic,Bachelor,Employed,F,27725,Married,63,1,93,4,Personal Auto,Offer1,Branch,302.4,Four-Door Car,Medsize
+California,3491.26162,Extended,Master,Employed,F,29673,Single,92,21,49,1,Corporate Auto,Offer2,Branch,328.348506,Two-Door Car,Medsize
+California,2309.876793,Basic,Bachelor,Unemployed,F,0,Divorced,61,16,57,1,Personal Auto,Offer1,Agent,32.454659,Four-Door Car,Medsize
+California,5039.435344,Basic,College,Employed,F,82940,Single,63,12,56,3,Personal Auto,Offer3,Agent,332.847984,Four-Door Car,Medsize
+California,6273.911874,Extended,College,Retired,F,18577,Divorced,86,21,76,6,Corporate Auto,Offer1,Branch,412.8,Four-Door Car,Medsize
+California,6872.043512,Basic,Bachelor,Unemployed,F,0,Single,64,0,72,2,Corporate Auto,Offer1,Call Center,585.058877,Four-Door Car,Small
+California,13736.1325,Premium,Master,Disabled,F,16181,Divorced,181,22,79,8,Personal Auto,Offer1,Web,1261.319869,SUV,Medsize
+California,4770.984146,Basic,Master,Employed,F,76194,Single,119,5,85,1,Personal Auto,Offer1,Agent,388.313599,SUV,Large
+California,10296.9965,Extended,Bachelor,Unemployed,F,0,Single,138,11,84,9,Personal Auto,Offer2,Call Center,666.977979,SUV,Large
+California,3237.923545,Extended,College,Employed,F,60097,Single,82,11,62,1,Personal Auto,Offer3,Branch,278.735779,Four-Door Car,Medsize
+California,5254.019142,Basic,College,Employed,F,95017,Married,65,5,36,3,Personal Auto,Offer2,Web,324.99944,Four-Door Car,Medsize
+California,2228.525238,Basic,College,Unemployed,F,0,Single,64,3,26,1,Personal Auto,Offer4,Call Center,744.924331,Four-Door Car,Medsize
+California,16501.06524,Extended,Bachelor,Employed,F,83547,Married,137,6,14,2,Personal Auto,Offer1,Call Center,75.663572,SUV,Medsize
+California,5049.765309,Basic,Bachelor,Retired,F,10180,Married,65,17,99,4,Corporate Auto,Offer1,Branch,455.654032,Two-Door Car,Medsize
+California,3210.136249,Extended,College,Medical Leave,F,23554,Divorced,86,7,17,1,Corporate Auto,Offer4,Web,412.8,Four-Door Car,Small
+California,4531.366283,Premium,Bachelor,Unemployed,F,0,Married,119,30,95,1,Personal Auto,Offer1,Branch,571.2,Four-Door Car,Medsize
+California,7901.427389,Extended,Bachelor,Employed,M,99711,Married,98,24,24,7,Corporate Auto,Offer2,Branch,11.549207,Four-Door Car,Small
+California,8596.567628,Basic,College,Employed,F,25785,Single,112,8,22,4,Corporate Auto,Offer1,Call Center,537.6,SUV,Small
+California,8262.629249,Basic,College,Unemployed,F,0,Single,113,25,55,3,Corporate Auto,Offer1,Agent,813.6,SUV,Medsize
+California,5495.183322,Basic,College,Employed,M,25564,Divorced,71,29,58,6,Personal Auto,Offer1,Agent,228.515513,Four-Door Car,Medsize
+California,2471.278718,Basic,Bachelor,Employed,F,29918,Married,62,1,53,1,Personal Auto,Offer4,Web,108.892382,Four-Door Car,Medsize
+California,4128.385865,Basic,Bachelor,Employed,F,95891,Married,102,3,13,1,Corporate Auto,Offer1,Agent,34.235959,SUV,Medsize
+California,6575.451884,Extended,Bachelor,Employed,M,84146,Married,82,0,79,7,Personal Auto,Offer4,Agent,464.714188,Four-Door Car,Medsize
+California,7425.269244,Basic,College,Employed,M,36259,Married,63,14,60,2,Corporate Auto,Offer4,Branch,302.4,Four-Door Car,Medsize
+California,3924.416277,Basic,College,Employed,M,56480,Single,101,32,65,1,Corporate Auto,Offer3,Branch,617.650751,SUV,Medsize
+California,8660.838974,Basic,College,Employed,F,79674,Married,107,29,50,3,Personal Auto,Offer3,Call Center,9.275859,SUV,Medsize
+California,8130.651447,Basic,College,Employed,M,61036,Married,68,2,75,2,Corporate Auto,Offer3,Web,413.25233,Two-Door Car,Medsize
+California,12751.27591,Basic,Bachelor,Employed,F,33235,Single,110,18,79,2,Personal Auto,Offer1,Call Center,113.804117,SUV,Small
+California,4170.687348,Basic,Master,Employed,F,29462,Single,107,28,23,1,Personal Auto,Offer2,Branch,513.6,SUV,Large
+California,3573.291869,Basic,Bachelor,Unemployed,F,0,Single,109,25,21,1,Personal Auto,Offer1,Call Center,523.2,SUV,Medsize
+California,9095.049868,Basic,College,Employed,M,37937,Married,116,11,42,5,Corporate Auto,Offer2,Call Center,556.8,SUV,Medsize
+California,4794.116328,Basic,College,Employed,F,70012,Married,119,22,33,1,Personal Auto,Offer4,Agent,755.19863,SUV,Small
+California,14435.67365,Premium,Master,Employed,M,60880,Married,119,25,89,2,Personal Auto,Offer1,Agent,109.906628,Two-Door Car,Medsize
+California,9061.63365,Basic,Bachelor,Unemployed,M,0,Single,65,19,87,2,Corporate Auto,Offer1,Branch,413.288528,Four-Door Car,Small
+California,8256.2978,Basic,Bachelor,Employed,F,62902,Married,69,14,94,2,Personal Auto,Offer2,Web,159.383042,Two-Door Car,Medsize
+California,19327.87406,Extended,Bachelor,Employed,F,57245,Single,124,25,15,2,Corporate Auto,Offer2,Call Center,681.577742,Sports Car,Small
+California,7050.972166,Premium,Bachelor,Employed,F,39040,Married,174,4,34,1,Personal Auto,Offer2,Web,835.2,SUV,Medsize
+California,5519.513075,Basic,Doctor,Employed,F,70914,Married,68,15,82,3,Personal Auto,Offer1,Agent,77.695518,Four-Door Car,Medsize
+California,10090.40808,Extended,College,Employed,F,97238,Divorced,126,6,91,3,Personal Auto,Offer3,Web,604.8,SUV,Medsize
+California,31316.61358,Extended,Bachelor,Employed,F,42522,Married,132,3,85,2,Corporate Auto,Offer3,Agent,909.876614,SUV,Medsize
+California,4957.1612,Basic,Bachelor,Unemployed,F,0,Divorced,67,3,69,7,Personal Auto,Offer2,Branch,321.6,Four-Door Car,Medsize
+California,4014.453113,Extended,Doctor,Employed,F,37384,Married,99,9,17,1,Personal Auto,Offer2,Agent,475.2,Four-Door Car,Medsize
+California,7370.61684,Basic,Bachelor,Employed,F,67871,Married,61,1,21,2,Corporate Auto,Offer1,Branch,10.475529,Four-Door Car,Medsize
+California,15503.72309,Basic,College,Employed,F,29932,Married,64,34,5,2,Personal Auto,Offer1,Branch,319.710124,Two-Door Car,Medsize
+California,12765.77704,Basic,Bachelor,Unemployed,F,0,Single,117,13,47,2,Personal Auto,Offer2,Web,842.4,SUV,Medsize
+California,9159.005771,Premium,Bachelor,Employed,F,96331,Divorced,114,33,38,9,Personal Auto,Offer3,Agent,491.027024,Two-Door Car,Medsize
+California,11072.03193,Extended,Bachelor,Employed,M,58971,Divorced,94,12,75,2,Corporate Auto,Offer1,Agent,318.882053,Four-Door Car,Medsize
+California,8607.482071,Premium,College,Unemployed,M,0,Married,118,30,52,7,Personal Auto,Offer1,Web,566.4,Four-Door Car,Medsize
+California,4222.977602,Basic,Bachelor,Unemployed,M,0,Single,63,26,78,7,Personal Auto,Offer1,Agent,302.4,Two-Door Car,Small
+California,61134.68307,Basic,College,Unemployed,M,0,Single,198,2,75,2,Corporate Auto,Offer2,Branch,2275.265075,Luxury Car,Medsize
+California,9368.27103,Extended,College,Employed,M,44980,Divorced,81,2,27,2,Corporate Auto,Offer3,Agent,333.478333,Two-Door Car,Medsize
+California,4365.256633,Basic,Master,Disabled,M,23566,Married,112,3,43,1,Personal Auto,Offer2,Agent,537.6,SUV,Medsize
+California,3384.468426,Extended,College,Employed,F,54603,Single,86,29,68,1,Corporate Auto,Offer1,Agent,412.8,Four-Door Car,Medsize
+California,3875.541141,Basic,College,Unemployed,M,0,Single,117,11,29,1,Personal Auto,Offer1,Branch,842.4,Sports Car,Medsize
+California,2735.469265,Basic,College,Employed,F,96314,Single,69,2,76,1,Personal Auto,Offer2,Agent,296.995798,Four-Door Car,Medsize
+California,3092.632781,Extended,Bachelor,Employed,F,31168,Married,78,14,42,1,Corporate Auto,Offer1,Agent,289.386343,Four-Door Car,Medsize
+California,14382.56463,Extended,College,Employed,M,52174,Married,121,22,25,2,Personal Auto,Offer1,Call Center,403.737293,SUV,Medsize
+California,2762.801339,Basic,College,Employed,F,72335,Single,69,23,35,1,Personal Auto,Offer2,Web,331.2,Four-Door Car,Medsize
+California,5599.668502,Basic,Doctor,Unemployed,M,0,Married,73,1,60,5,Corporate Auto,Offer4,Web,350.4,Four-Door Car,Medsize
+California,4974.801539,Basic,Bachelor,Employed,M,75644,Divorced,65,5,68,9,Personal Auto,Offer2,Branch,467.803638,Two-Door Car,Medsize
+California,5574.618901,Basic,College,Employed,M,20075,Married,71,0,28,3,Personal Auto,Offer1,Agent,371.679189,Four-Door Car,Small
+California,6889.518761,Extended,Bachelor,Employed,F,33786,Divorced,89,15,94,3,Personal Auto,Offer1,Call Center,75.110004,Two-Door Car,Large
+California,17497.52201,Basic,College,Unemployed,M,0,Divorced,73,9,94,2,Personal Auto,Offer1,Agent,350.4,Two-Door Car,Medsize
+California,5358.163394,Basic,Bachelor,Employed,F,40833,Single,69,13,84,6,Corporate Auto,Offer2,Call Center,294.591676,Four-Door Car,Medsize
+California,8080.948098,Basic,College,Employed,M,85210,Single,68,34,9,2,Personal Auto,Offer3,Branch,32.714226,Two-Door Car,Medsize
+California,5678.050167,Extended,Bachelor,Unemployed,F,0,Married,76,8,44,3,Corporate Auto,Offer2,Agent,364.8,Four-Door Car,Small
+California,5243.538258,Basic,Master,Employed,F,44851,Divorced,66,28,51,3,Corporate Auto,Offer3,Web,439.762045,Four-Door Car,Medsize
+California,30859.36361,Basic,Master,Employed,M,69872,Married,111,35,10,2,Corporate Auto,Offer2,Web,218.395525,Sports Car,Medsize
+California,13447.37157,Extended,College,Retired,F,26708,Divorced,122,10,24,2,Personal Auto,Offer2,Call Center,585.6,SUV,Medsize
+California,2722.210707,Basic,College,Medical Leave,F,17576,Married,71,29,70,1,Personal Auto,Offer2,Call Center,398.502948,Four-Door Car,Medsize
+California,32317.03275,Basic,Bachelor,Employed,F,55475,Divorced,116,18,75,2,Personal Auto,Offer1,Agent,412.471,SUV,Medsize
+California,7896.706446,Basic,College,Unemployed,M,0,Married,111,22,21,8,Corporate Auto,Offer1,Branch,190.120714,SUV,Medsize
+California,2820.741005,Basic,Master,Employed,M,35855,Married,70,13,51,1,Personal Auto,Offer3,Web,278.208622,Two-Door Car,Medsize
+California,7689.714281,Basic,Bachelor,Unemployed,M,0,Single,73,3,73,2,Personal Auto,Offer2,Web,617.705323,Four-Door Car,Medsize
+California,4821.213012,Basic,College,Employed,M,63391,Married,64,28,48,3,Corporate Auto,Offer3,Agent,119.587974,Four-Door Car,Medsize
+California,4077.501164,Basic,Bachelor,Employed,F,53093,Divorced,103,3,62,1,Corporate Auto,Offer2,Call Center,98.991733,SUV,Medsize
+California,2888.853662,Basic,College,Employed,M,65412,Married,73,1,74,1,Personal Auto,Offer3,Branch,101.753098,Four-Door Car,Medsize
+California,3653.12609,Premium,College,Unemployed,M,0,Single,107,32,43,1,Corporate Auto,Offer1,Branch,770.4,Four-Door Car,Medsize
+California,4836.747754,Extended,Bachelor,Unemployed,F,0,Single,136,8,2,1,Personal Auto,Offer1,Branch,979.2,SUV,Small
+California,13009.18057,Basic,College,Unemployed,M,0,Single,61,2,81,2,Personal Auto,Offer1,Agent,380.069056,Two-Door Car,Medsize
+California,2612.528734,Basic,College,Employed,M,37073,Married,66,16,35,1,Personal Auto,Offer2,Branch,316.8,Four-Door Car,Medsize
+California,4704.176131,Basic,College,Unemployed,M,0,Married,68,10,48,3,Personal Auto,Offer3,Call Center,326.4,Two-Door Car,Medsize
+California,6240.903564,Extended,College,Employed,F,68332,Married,79,23,21,8,Personal Auto,Offer2,Branch,379.2,Four-Door Car,Medsize
+California,8053.268897,Premium,College,Disabled,M,17301,Married,105,1,11,5,Personal Auto,Offer2,Call Center,638.543326,Four-Door Car,Small
+California,5035.035257,Basic,Doctor,Employed,F,37405,Married,63,8,99,4,Corporate Auto,Offer2,Branch,287.556107,Four-Door Car,Medsize
+California,5492.388442,Extended,Bachelor,Employed,M,74271,Divorced,136,1,79,1,Personal Auto,Offer1,Call Center,174.327925,Sports Car,Medsize
+California,3657.585449,Extended,Bachelor,Employed,F,62650,Married,92,0,42,1,Personal Auto,Offer2,Branch,148.820742,Four-Door Car,Large
+California,5977.410465,Extended,Bachelor,Employed,F,25320,Married,76,10,70,8,Personal Auto,Offer1,Agent,269.065636,Four-Door Car,Large
+California,9298.887011,Extended,College,Employed,F,22094,Married,79,2,34,2,Corporate Auto,Offer4,Branch,460.889274,Four-Door Car,Small
+California,8725.292767,Premium,Bachelor,Employed,M,69772,Single,112,17,38,9,Personal Auto,Offer3,Branch,537.6,Four-Door Car,Medsize
+California,7687.296987,Basic,Bachelor,Unemployed,F,0,Divorced,109,0,5,3,Personal Auto,Offer3,Call Center,523.2,SUV,Medsize
+California,9150.137599,Basic,Master,Employed,F,32370,Married,115,2,77,4,Corporate Auto,Offer1,Branch,552,SUV,Medsize
+California,20370.76787,Basic,Bachelor,Unemployed,F,0,Single,73,0,21,2,Corporate Auto,Offer1,Branch,525.6,Four-Door Car,Medsize
+California,2775.671887,Basic,College,Employed,F,38222,Divorced,71,6,8,1,Personal Auto,Offer2,Call Center,166.78838,Four-Door Car,Medsize
+California,7712.057483,Basic,College,Disabled,M,27816,Married,118,4,90,3,Personal Auto,Offer1,Agent,566.4,SUV,Small
+California,11472.23701,Basic,College,Employed,M,62134,Single,73,13,14,2,Personal Auto,Offer2,Web,25.333594,Two-Door Car,Medsize
+California,4118.588554,Premium,Bachelor,Employed,F,69379,Single,103,14,79,1,Personal Auto,Offer1,Branch,494.4,Two-Door Car,Medsize
+California,3450.073829,Extended,Bachelor,Employed,M,68082,Single,88,24,53,1,Personal Auto,Offer2,Web,39.579516,Four-Door Car,Medsize
+California,7330.190221,Extended,College,Employed,F,26906,Married,92,17,12,3,Personal Auto,Offer3,Branch,106.528651,Two-Door Car,Medsize
+California,3193.156111,Extended,College,Employed,F,80580,Married,81,11,22,1,Personal Auto,Offer4,Web,41.694266,Two-Door Car,Medsize
+California,42937.34691,Extended,College,Employed,F,64937,Single,122,27,43,2,Corporate Auto,Offer3,Agent,328.82872,SUV,Medsize
+California,8151.719109,Basic,College,Unemployed,M,0,Single,114,9,27,5,Personal Auto,Offer2,Branch,820.8,SUV,Small
+California,8622.835375,Basic,Bachelor,Employed,M,97361,Single,73,6,85,2,Corporate Auto,Offer1,Agent,350.4,Four-Door Car,Medsize
+California,8936.370357,Premium,Bachelor,Disabled,M,18141,Married,116,2,87,3,Personal Auto,Offer2,Call Center,722.404711,Four-Door Car,Small
+California,6480.099944,Extended,Bachelor,Medical Leave,M,18820,Married,95,3,51,8,Personal Auto,Offer1,Branch,456,Two-Door Car,Small
+California,2449.789611,Basic,Bachelor,Employed,F,44662,Single,63,3,51,1,Corporate Auto,Offer1,Agent,165.098152,Four-Door Car,Medsize
+California,5314.958536,Basic,Master,Employed,M,66467,Married,66,17,65,3,Personal Auto,Offer4,Web,294.705573,Two-Door Car,Medsize
+California,3522.480373,Extended,College,Employed,F,90804,Married,87,1,95,1,Personal Auto,Offer1,Agent,169.386126,Four-Door Car,Medsize
+California,8132.702789,Basic,Bachelor,Employed,F,36737,Married,102,13,20,8,Corporate Auto,Offer1,Agent,512.861063,Sports Car,Large
+California,31758.35391,Extended,Master,Employed,F,44207,Married,99,23,57,2,Corporate Auto,Offer3,Agent,407.638917,Four-Door Car,Medsize
+California,19849.73509,Premium,College,Unemployed,M,0,Single,286,3,3,9,Personal Auto,Offer1,Agent,2059.2,Luxury SUV,Small
+California,4349.30875,Basic,College,Employed,F,75648,Married,108,28,10,1,Corporate Auto,Offer2,Branch,112.660916,SUV,Large
+California,20878.41013,Extended,College,Employed,M,50555,Divorced,88,9,45,2,Personal Auto,Offer4,Web,422.4,Four-Door Car,Large
+California,3528.044252,Extended,Doctor,Employed,M,31278,Married,92,24,95,1,Personal Auto,Offer1,Branch,441.6,Two-Door Car,Medsize
+California,8703.727127,Basic,Master,Employed,F,61897,Married,72,7,79,2,Personal Auto,Offer3,Web,3.406136,Four-Door Car,Medsize
+California,8383.677045,Basic,Master,Employed,M,68717,Divorced,70,4,33,2,Personal Auto,Offer4,Branch,810.907059,Four-Door Car,Small
+California,3540.206231,Extended,Bachelor,Employed,F,62863,Married,88,18,52,1,Corporate Auto,Offer3,Agent,94.507735,Four-Door Car,Medsize
+California,5379.482798,Basic,College,Employed,F,24702,Married,68,13,63,8,Personal Auto,Offer2,Web,214.91451,Four-Door Car,Large
+California,2944.780529,Basic,Master,Employed,F,87274,Married,73,2,30,1,Personal Auto,Offer2,Agent,350.4,Four-Door Car,Medsize
+California,8028.179882,Basic,Master,Employed,M,56482,Married,199,4,75,1,Personal Auto,Offer4,Call Center,955.2,Luxury SUV,Medsize
+California,9470.063102,Extended,College,Employed,F,46530,Married,80,12,46,2,Corporate Auto,Offer1,Agent,118.556928,Four-Door Car,Medsize
+California,6674.177684,Basic,College,Unemployed,M,0,Single,189,23,14,1,Personal Auto,Offer4,Branch,1737.320276,Luxury SUV,Large
+California,3590.693623,Extended,College,Employed,F,82918,Married,89,28,50,1,Personal Auto,Offer2,Branch,29.828668,Two-Door Car,Small
+California,11790.49617,Basic,College,Retired,M,25251,Divorced,66,13,43,2,Personal Auto,Offer2,Web,316.8,Four-Door Car,Medsize
+California,5267.760257,Extended,Master,Employed,M,39722,Divorced,133,9,62,1,Personal Auto,Offer1,Call Center,638.4,SUV,Large
+California,5745.95924,Basic,Bachelor,Employed,F,51335,Married,71,17,88,9,Personal Auto,Offer1,Branch,171.685669,Four-Door Car,Medsize
+California,8845.185533,Basic,Bachelor,Employed,M,45600,Married,113,6,96,3,Personal Auto,Offer1,Agent,617.936885,SUV,Medsize
+California,6570.970605,Premium,Master,Employed,F,52951,Single,167,3,43,1,Personal Auto,Offer1,Branch,289.77269,SUV,Small
+California,10212.01913,Extended,College,Employed,M,93920,Married,84,20,13,2,Corporate Auto,Offer2,Web,213.027868,Four-Door Car,Medsize
+California,2556.674379,Basic,Bachelor,Unemployed,M,0,Single,71,17,22,1,Corporate Auto,Offer1,Agent,340.8,Four-Door Car,Medsize
+California,15552.39651,Basic,Bachelor,Unemployed,M,0,Single,64,2,99,2,Personal Auto,Offer1,Call Center,307.2,Four-Door Car,Medsize
+California,4904.462754,Basic,Master,Disabled,F,27593,Married,63,31,78,6,Corporate Auto,Offer1,Agent,241.232198,Two-Door Car,Medsize
+California,13931.35067,Basic,Bachelor,Employed,M,37695,Married,118,11,62,2,Personal Auto,Offer1,Branch,352.311743,SUV,Medsize
+California,7756.437921,Basic,Bachelor,Employed,M,97592,Divorced,65,10,7,2,Personal Auto,Offer4,Agent,312,Four-Door Car,Medsize
+California,11232.9821,Basic,College,Unemployed,M,0,Married,74,12,68,2,Personal Auto,Offer2,Call Center,355.2,Four-Door Car,Small
+California,17602.51146,Premium,College,Unemployed,F,0,Divorced,161,1,68,2,Corporate Auto,Offer1,Agent,772.8,SUV,Medsize
+California,13277.08425,Basic,Bachelor,Employed,M,96402,Married,110,29,41,2,Personal Auto,Offer3,Agent,379.897943,SUV,Medsize
+California,19337.90103,Extended,College,Employed,M,26488,Divorced,247,21,39,7,Personal Auto,Offer1,Web,1321.584957,Luxury SUV,Medsize
+California,10732.50747,Extended,Doctor,Employed,M,75728,Married,133,24,68,4,Corporate Auto,Offer1,Call Center,44.159065,SUV,Medsize
+California,7200.664877,Basic,College,Unemployed,F,0,Married,66,16,77,2,Corporate Auto,Offer2,Agent,316.8,Four-Door Car,Medsize
+California,2864.820306,Basic,Bachelor,Unemployed,M,0,Single,109,2,8,1,Personal Auto,Offer3,Call Center,1145.746845,SUV,Small
+California,18321.24471,Basic,College,Employed,F,76726,Married,65,27,26,2,Personal Auto,Offer2,Branch,10.36741,Four-Door Car,Medsize
+California,4319.145955,Basic,Bachelor,Disabled,F,11811,Married,110,20,20,1,Personal Auto,Offer2,Branch,808.618307,Sports Car,Small
+California,5705.899103,Basic,College,Unemployed,F,0,Married,74,2,34,9,Personal Auto,Offer1,Branch,432.4081,Two-Door Car,Medsize
+California,6656.15047,Extended,College,Disabled,F,26628,Married,85,15,28,6,Corporate Auto,Offer1,Agent,408,Two-Door Car,Large
+California,4905.321482,Basic,Master,Employed,M,46177,Married,61,8,32,8,Personal Auto,Offer1,Web,379.075927,Four-Door Car,Small
+California,5620.587184,Basic,Doctor,Employed,M,21142,Single,71,16,79,4,Personal Auto,Offer1,Agent,79.293115,Two-Door Car,Large
+California,8382.478392,Basic,Bachelor,Employed,M,25998,Married,71,16,38,2,Personal Auto,Offer2,Call Center,791.878042,Four-Door Car,Medsize
+California,2857.992725,Basic,Bachelor,Employed,F,85300,Divorced,73,8,39,1,Corporate Auto,Offer2,Call Center,319.867735,Four-Door Car,Large
+California,33288.16185,Premium,College,Employed,F,91541,Married,118,23,3,2,Personal Auto,Offer2,Branch,51.549119,Four-Door Car,Medsize
+California,4005.720666,Basic,College,Employed,F,28987,Married,102,8,98,1,Personal Auto,Offer3,Branch,245.693546,SUV,Medsize
+California,16272.74322,Basic,Bachelor,Employed,M,83589,Single,103,27,65,2,Personal Auto,Offer3,Agent,366.0396,SUV,Small
+California,26232.85024,Basic,Bachelor,Employed,F,35868,Single,110,20,51,2,Personal Auto,Offer2,Branch,528,SUV,Medsize
+California,7442.570447,Extended,Bachelor,Employed,M,57517,Single,96,14,61,8,Corporate Auto,Offer2,Web,460.8,Four-Door Car,Medsize
+California,8418.573784,Basic,Bachelor,Unemployed,F,0,Married,115,21,62,9,Personal Auto,Offer3,Branch,552,SUV,Medsize
+California,2866.595388,Basic,Master,Disabled,F,26924,Married,73,12,80,1,Personal Auto,Offer1,Call Center,262.086021,Four-Door Car,Medsize
+California,6638.122296,Premium,Master,Employed,M,21586,Married,167,31,44,1,Personal Auto,Offer4,Agent,801.6,Sports Car,Medsize
+California,2530.705137,Basic,Bachelor,Employed,F,89451,Single,63,11,2,1,Personal Auto,Offer2,Web,61.769564,Four-Door Car,Medsize
+California,5556.282281,Basic,Bachelor,Employed,F,97424,Married,68,25,13,5,Personal Auto,Offer1,Agent,230.436256,Two-Door Car,Medsize
+California,6264.6336,Extended,Bachelor,Unemployed,M,0,Single,89,5,16,3,Corporate Auto,Offer1,Agent,850.175941,Two-Door Car,Medsize
+California,5639.402141,Extended,College,Disabled,M,24636,Single,77,5,72,6,Personal Auto,Offer2,Agent,480.925301,Two-Door Car,Medsize
+California,3903.383926,Premium,Master,Unemployed,M,0,Single,104,25,87,1,Personal Auto,Offer1,Call Center,499.2,Four-Door Car,Medsize
+California,2837.007353,Basic,College,Employed,F,41408,Divorced,73,4,89,1,Corporate Auto,Offer1,Branch,268.710908,Four-Door Car,Medsize
+California,12741.84754,Basic,Bachelor,Employed,F,73054,Married,106,34,36,2,Personal Auto,Offer1,Branch,419.365958,SUV,Medsize
+California,8888.886826,Basic,College,Employed,M,77104,Married,112,21,65,6,Corporate Auto,Offer1,Agent,436.494292,SUV,Medsize
+California,4903.131185,Extended,College,Unemployed,F,0,Married,133,11,95,1,Personal Auto,Offer2,Branch,638.4,SUV,Large
+California,2600.002868,Basic,Bachelor,Employed,M,72766,Married,65,23,93,1,Personal Auto,Offer3,Branch,91.464233,Two-Door Car,Medsize
+California,4341.363555,Basic,Bachelor,Employed,M,23352,Married,112,0,86,1,Personal Auto,Offer2,Branch,537.6,SUV,Medsize
+California,4298.664542,Basic,College,Employed,F,76778,Married,107,31,46,1,Personal Auto,Offer1,Agent,500.665061,SUV,Small
+California,2698.048753,Basic,Master,Employed,M,40154,Married,67,24,17,1,Corporate Auto,Offer1,Branch,360.670642,Four-Door Car,Medsize
+California,5382.761801,Basic,Bachelor,Employed,F,74888,Married,68,19,36,7,Personal Auto,Offer3,Call Center,335.936021,Two-Door Car,Small
+California,5732.686642,Basic,College,Employed,F,39337,Single,74,29,1,9,Personal Auto,Offer1,Agent,277.225868,Four-Door Car,Medsize
+California,7089.046071,Extended,Bachelor,Employed,M,28121,Divorced,90,16,0,4,Personal Auto,Offer2,Agent,432,Two-Door Car,Medsize
+California,8302.321168,Basic,Master,Employed,M,78032,Married,103,8,49,3,Corporate Auto,Offer3,Agent,323.607074,SUV,Small
+California,3371.528475,Basic,College,Unemployed,F,0,Single,102,2,36,1,Personal Auto,Offer1,Agent,489.6,SUV,Medsize
+California,14031.70468,Premium,Bachelor,Employed,F,91061,Married,116,22,95,2,Personal Auto,Offer1,Agent,556.8,Four-Door Car,Medsize
+California,7126.263963,Extended,Master,Medical Leave,F,22490,Married,90,8,96,8,Personal Auto,Offer1,Agent,88.765534,Two-Door Car,Large
+California,27430.14468,Extended,Bachelor,Employed,M,49331,Married,138,3,58,2,Personal Auto,Offer1,Branch,386.258495,SUV,Medsize
+California,7019.177186,Basic,College,Retired,M,26806,Married,63,32,19,2,Personal Auto,Offer1,Agent,302.4,Four-Door Car,Medsize
+California,24826.89127,Basic,Doctor,Employed,F,67572,Married,102,7,55,2,Personal Auto,Offer1,Branch,296.209127,Sports Car,Small
+California,3351.213465,Extended,Bachelor,Employed,F,90213,Married,83,3,12,1,Personal Auto,Offer2,Call Center,398.4,Two-Door Car,Medsize
+California,4584.137063,Basic,College,Employed,M,85245,Married,115,6,96,1,Personal Auto,Offer2,Call Center,556.568103,Sports Car,Large
+California,5945.616886,Basic,College,Employed,F,65602,Married,73,11,14,3,Personal Auto,Offer3,Agent,61.570877,Four-Door Car,Medsize
+California,4785.909313,Basic,College,Unemployed,M,0,Divorced,68,16,12,7,Personal Auto,Offer1,Call Center,199.23876,Four-Door Car,Medsize
+California,7275.894536,Basic,Bachelor,Unemployed,M,0,Single,106,24,77,6,Personal Auto,Offer1,Call Center,1247.79856,SUV,Large
+California,4940.940943,Basic,College,Unemployed,F,0,Single,71,22,57,9,Personal Auto,Offer3,Agent,511.750971,Four-Door Car,Medsize
+California,18635.90451,Basic,College,Disabled,M,11656,Married,70,19,8,2,Personal Auto,Offer3,Agent,336,Two-Door Car,Medsize
+California,7507.455372,Basic,College,Employed,M,60920,Single,64,10,61,2,Corporate Auto,Offer2,Agent,231.201886,Two-Door Car,Medsize
+California,2130.35457,Basic,College,Unemployed,M,0,Single,62,16,79,1,Corporate Auto,Offer1,Branch,446.4,Two-Door Car,Medsize
+California,5067.514799,Basic,Master,Employed,M,74919,Married,63,10,31,9,Personal Auto,Offer2,Branch,206.24435,Four-Door Car,Medsize
+California,7822.304151,Extended,Bachelor,Employed,F,33963,Divorced,99,10,3,4,Corporate Auto,Offer4,Web,222.626234,Four-Door Car,Medsize
+California,2897.278535,Basic,College,Employed,M,75041,Single,74,30,42,1,Personal Auto,Offer3,Agent,56.05058,Four-Door Car,Medsize
+California,18882.63699,Premium,College,Medical Leave,M,24054,Single,176,14,61,2,Personal Auto,Offer1,Branch,1133.801271,SUV,Medsize
+California,6273.911874,Extended,College,Retired,F,18577,Divorced,86,21,76,6,Corporate Auto,Offer1,Branch,412.8,Four-Door Car,Medsize
+California,7614.830065,Extended,College,Employed,F,35045,Married,96,21,47,5,Personal Auto,Offer1,Agent,420.606785,Four-Door Car,Medsize
+California,2117.989147,Basic,Bachelor,Unemployed,M,0,Single,64,0,78,1,Personal Auto,Offer1,Branch,426.248686,Four-Door Car,Medsize
+California,2290.681171,Basic,Bachelor,Unemployed,F,0,Single,64,30,85,1,Personal Auto,Offer1,Branch,482.778155,Four-Door Car,Large
+California,6521.368813,Extended,College,Employed,F,72608,Married,82,26,19,8,Personal Auto,Offer2,Agent,393.6,Four-Door Car,Medsize
+California,16909.92767,Extended,College,Employed,M,65620,Divorced,213,16,0,4,Corporate Auto,Offer3,Agent,766.322388,Luxury Car,Medsize
+California,2627.831472,Basic,Bachelor,Employed,M,31964,Married,67,30,90,1,Personal Auto,Offer2,Web,120.060283,Four-Door Car,Medsize
+California,6111.053244,Extended,Master,Medical Leave,M,22944,Married,80,26,83,5,Corporate Auto,Offer3,Branch,488.272759,Four-Door Car,Medsize
+California,2933.498052,Extended,Master,Unemployed,M,0,Married,78,22,98,1,Personal Auto,Offer1,Branch,398.421636,Four-Door Car,Medsize
+California,4325.491222,Basic,College,Employed,M,94242,Divorced,107,15,70,1,Personal Auto,Offer2,Branch,52.121929,SUV,Large
+California,43019.01278,Extended,College,Unemployed,M,0,Married,132,24,49,2,Corporate Auto,Offer3,Branch,904.378268,SUV,Large
+California,7482.851041,Basic,Bachelor,Unemployed,F,0,Married,101,17,20,3,Corporate Auto,Offer1,Agent,978.257137,SUV,Medsize
+California,4929.549699,Basic,Bachelor,Employed,M,25632,Married,63,27,52,7,Personal Auto,Offer2,Call Center,351.270869,Two-Door Car,Medsize
+California,2537.667511,Basic,Master,Unemployed,M,0,Married,68,32,28,1,Corporate Auto,Offer2,Branch,326.4,Four-Door Car,Medsize
+California,5322.291688,Extended,Bachelor,Employed,F,33681,Single,138,13,21,1,Personal Auto,Offer1,Agent,873.127345,SUV,Large
+California,25093.57037,Basic,Master,Employed,M,36007,Married,70,14,85,2,Personal Auto,Offer1,Branch,336,Four-Door Car,Small
+California,2656.846648,Basic,College,Medical Leave,F,18834,Married,69,20,89,1,Personal Auto,Offer2,Agent,453.895633,Two-Door Car,Medsize
+California,11073.10572,Extended,Master,Employed,M,82807,Divorced,92,15,20,2,Personal Auto,Offer3,Agent,302.458432,Four-Door Car,Medsize
+California,5386.512585,Basic,Bachelor,Employed,M,41228,Married,70,2,99,7,Personal Auto,Offer2,Web,336,Two-Door Car,Medsize
+California,2702.692335,Basic,College,Disabled,M,22415,Married,69,0,79,1,Personal Auto,Offer3,Branch,352.894843,Four-Door Car,Large
+California,2776.748342,Basic,Doctor,Employed,F,30893,Divorced,70,25,13,1,Corporate Auto,Offer3,Branch,85.416096,Four-Door Car,Medsize
+California,9065.25926,Premium,Bachelor,Employed,F,40006,Divorced,114,34,18,7,Personal Auto,Offer1,Branch,132.568435,Two-Door Car,Medsize
+California,18677.85248,Extended,College,Unemployed,M,0,Married,86,17,14,2,Personal Auto,Offer1,Agent,538.649619,Four-Door Car,Medsize
+California,2982.196702,Basic,Bachelor,Employed,M,79523,Married,74,34,40,1,Personal Auto,Offer3,Agent,132.023007,Four-Door Car,Medsize
+California,2736.352663,Basic,College,Disabled,M,17533,Married,73,10,1,1,Personal Auto,Offer1,Agent,350.4,Two-Door Car,Medsize
+California,5850.451386,Basic,Doctor,Employed,M,24317,Married,73,2,35,3,Corporate Auto,Offer1,Call Center,350.4,Four-Door Car,Medsize
+California,5843.614767,Basic,College,Employed,M,77498,Single,74,17,10,5,Personal Auto,Offer1,Branch,249.151199,Two-Door Car,Medsize
+California,4015.400868,Basic,Bachelor,Employed,M,28088,Married,102,8,61,1,Personal Auto,Offer1,Agent,489.6,SUV,Small
+California,18484.80858,Basic,College,Employed,F,36153,Married,117,27,6,2,Corporate Auto,Offer2,Agent,323.424189,Sports Car,Medsize
+California,9191.733549,Basic,Master,Employed,F,23823,Married,115,5,39,6,Corporate Auto,Offer2,Branch,567.48055,Sports Car,Medsize
+California,4711.038869,Basic,Bachelor,Employed,M,24843,Married,61,20,17,4,Personal Auto,Offer1,Agent,331.325638,Four-Door Car,Medsize
+California,30205.01297,Extended,College,Unemployed,M,0,Married,89,7,4,2,Personal Auto,Offer3,Agent,469.359715,Four-Door Car,Medsize
+California,12280.76661,Premium,College,Employed,M,88340,Married,102,16,1,2,Personal Auto,Offer1,Branch,489.6,Two-Door Car,Medsize
+California,2980.010499,Extended,College,Medical Leave,F,13535,Married,80,7,53,1,Personal Auto,Offer2,Agent,384,Four-Door Car,Small
+California,17223.06591,Basic,College,Employed,M,22346,Single,64,7,44,2,Personal Auto,Offer4,Call Center,307.2,Four-Door Car,Large
+California,9498.473472,Extended,College,Unemployed,F,0,Single,90,13,52,2,Personal Auto,Offer4,Call Center,432,Two-Door Car,Medsize
+California,2224.555883,Basic,Bachelor,Unemployed,F,0,Single,67,1,77,1,Personal Auto,Offer1,Agent,482.4,Two-Door Car,Small
+California,7506.964816,Basic,Bachelor,Unemployed,M,0,Married,67,16,12,2,Corporate Auto,Offer1,Call Center,321.6,Two-Door Car,Medsize
+California,5608.819189,Basic,Bachelor,Employed,M,28483,Married,72,18,92,5,Corporate Auto,Offer3,Agent,345.6,Four-Door Car,Medsize
+California,2700.676449,Basic,Master,Employed,F,89362,Single,67,8,72,1,Personal Auto,Offer4,Branch,116.209568,Four-Door Car,Medsize
+California,4130.382954,Basic,College,Unemployed,F,0,Single,66,30,29,3,Corporate Auto,Offer1,Agent,523.030597,Four-Door Car,Small
+California,2966.944264,Extended,College,Unemployed,M,0,Married,81,14,75,1,Personal Auto,Offer1,Branch,388.8,Two-Door Car,Medsize
+California,6761.107268,Extended,Bachelor,Employed,F,70829,Divorced,85,14,10,3,Personal Auto,Offer4,Web,553.174109,Four-Door Car,Medsize
+California,5747.268347,Basic,Bachelor,Employed,M,23504,Married,73,2,66,8,Personal Auto,Offer4,Call Center,350.4,Four-Door Car,Small
+California,5048.512037,Premium,Bachelor,Unemployed,F,0,Single,142,10,51,1,Corporate Auto,Offer1,Agent,880.435943,SUV,Medsize
+California,5714.562292,Basic,Bachelor,Employed,F,74905,Single,72,16,35,3,Personal Auto,Offer1,Call Center,167.028453,Four-Door Car,Medsize
+California,4392.982538,Basic,Bachelor,Employed,M,33640,Married,113,20,20,1,Corporate Auto,Offer4,Agent,542.4,SUV,Medsize
+California,3593.12645,Extended,College,Disabled,F,18213,Divorced,96,12,43,1,Corporate Auto,Offer1,Branch,460.8,Four-Door Car,Large
+California,3694.647081,Basic,Bachelor,Unemployed,M,0,Married,102,13,84,1,Personal Auto,Offer3,Call Center,610.617285,SUV,Large
+California,4781.821034,Premium,Master,Employed,F,30361,Married,119,28,48,1,Personal Auto,Offer2,Branch,373.289571,Four-Door Car,Medsize
+California,3885.456401,Premium,College,Unemployed,M,0,Married,105,3,92,1,Personal Auto,Offer1,Branch,504,Four-Door Car,Large
+California,4737.411455,Basic,College,Unemployed,F,0,Single,68,2,26,3,Personal Auto,Offer1,Branch,326.4,Two-Door Car,Small
+California,9410.670129,Premium,Bachelor,Employed,M,96060,Married,117,6,57,3,Corporate Auto,Offer1,Branch,561.6,Four-Door Car,Large
+California,5878.447428,Basic,College,Employed,F,25398,Married,74,23,2,3,Personal Auto,Offer4,Branch,465.922152,Four-Door Car,Large
+California,4547.321823,Basic,Bachelor,Medical Leave,F,29031,Married,61,7,19,3,Personal Auto,Offer2,Agent,292.8,Four-Door Car,Medsize
+California,5926.38544,Basic,College,Employed,M,92949,Married,74,21,84,3,Personal Auto,Offer2,Web,337.305815,Two-Door Car,Medsize
+California,4873.672682,Basic,Bachelor,Unemployed,F,0,Single,68,3,5,5,Corporate Auto,Offer1,Agent,356.08323,Four-Door Car,Medsize
+California,2580.849899,Basic,College,Employed,M,46900,Married,66,13,59,1,Corporate Auto,Offer2,Web,316.8,Four-Door Car,Medsize
+California,7083.642205,Premium,College,Employed,M,97024,Married,177,0,68,1,Personal Auto,Offer2,Branch,686.815162,SUV,Medsize
+California,4148.570285,Basic,Bachelor,Employed,F,61896,Married,104,25,97,1,Personal Auto,Offer4,Call Center,461.306722,SUV,Medsize
+California,2518.743544,Basic,Doctor,Employed,F,39317,Single,64,22,46,1,Personal Auto,Offer2,Branch,77.695607,Four-Door Car,Medsize
+California,3843.965188,Extended,Bachelor,Employed,M,43987,Married,96,29,17,1,Personal Auto,Offer2,Call Center,460.8,Four-Door Car,Medsize
+California,9075.768214,Basic,Master,Employed,M,37722,Single,116,8,23,8,Personal Auto,Offer1,Agent,158.077504,Sports Car,Medsize
+California,2619.337376,Basic,Bachelor,Employed,M,78618,Divorced,66,7,56,1,Corporate Auto,Offer1,Agent,225.578841,Two-Door Car,Medsize
+California,15245.25495,Basic,Bachelor,Employed,F,30205,Single,195,24,1,4,Personal Auto,Offer1,Agent,1329.957905,Luxury SUV,Large
+California,2615.13922,Basic,College,Employed,M,57023,Single,67,11,59,1,Personal Auto,Offer2,Agent,250.652309,Four-Door Car,Medsize
+California,5551.398167,Extended,College,Employed,M,36918,Divorced,76,28,77,3,Personal Auto,Offer1,Branch,364.8,Two-Door Car,Medsize
+California,3622.872124,Basic,College,Unemployed,M,0,Single,108,23,52,1,Corporate Auto,Offer1,Branch,1254.177129,SUV,Medsize
+California,2845.520933,Basic,Bachelor,Employed,M,86631,Divorced,73,7,44,1,Personal Auto,Offer3,Agent,400.832857,Four-Door Car,Small
+California,5500.577411,Extended,College,Employed,F,44019,Married,138,20,60,1,Personal Auto,Offer3,Agent,165.478147,SUV,Medsize
+California,3358.532935,Extended,Bachelor,Employed,F,59367,Married,84,6,48,1,Personal Auto,Offer2,Agent,6.880385,Four-Door Car,Medsize
+California,11663.98572,Premium,College,Unemployed,F,0,Married,107,12,34,2,Personal Auto,Offer3,Call Center,513.6,Four-Door Car,Small
+California,9424.256842,Basic,Master,Employed,M,46897,Married,118,13,11,3,Corporate Auto,Offer1,Agent,322.575677,SUV,Medsize
+California,5479.555081,Basic,Master,Employed,M,56005,Married,68,31,30,3,Corporate Auto,Offer1,Branch,326.4,Four-Door Car,Small
+California,2114.738469,Basic,Bachelor,Unemployed,F,0,Single,72,30,69,1,Personal Auto,Offer3,Web,518.4,Four-Door Car,Medsize
+California,4140.648654,Extended,College,Unemployed,F,0,Divorced,123,5,35,1,Corporate Auto,Offer1,Branch,590.4,SUV,Medsize
+California,25464.82059,Extended,College,Retired,F,13663,Single,97,1,66,2,Personal Auto,Offer1,Branch,465.6,Four-Door Car,Small
+California,5678.050167,Extended,Bachelor,Unemployed,F,0,Married,76,8,44,3,Personal Auto,Offer2,Agent,364.8,Four-Door Car,Small
+California,16261.5855,Extended,Master,Employed,M,60646,Married,134,31,42,2,Personal Auto,Offer2,Agent,643.2,SUV,Medsize
+California,4628.995325,Basic,Bachelor,Unemployed,M,0,Single,67,25,21,4,Corporate Auto,Offer1,Branch,482.4,Two-Door Car,Medsize
+California,5032.165498,Basic,College,Employed,M,66367,Divorced,64,6,48,3,Personal Auto,Offer2,Call Center,307.2,Two-Door Car,Small
+California,4100.398533,Premium,College,Employed,F,47761,Single,104,16,58,1,Personal Auto,Offer1,Branch,541.282007,Four-Door Car,Large
+California,23405.98798,Basic,Bachelor,Employed,M,71941,Married,73,18,89,2,Personal Auto,Offer2,Web,198.234764,Four-Door Car,Medsize
+California,3096.511217,Extended,College,Employed,F,21604,Divorced,79,14,28,1,Corporate Auto,Offer1,Branch,379.2,Four-Door Car,Medsize
+California,8163.890428,Extended,Bachelor,Unemployed,M,0,Single,85,9,37,2,Corporate Auto,Offer1,Branch,790.784983,Four-Door Car,Medsize
+California,7524.442436,Extended,College,Employed,M,21941,Married,96,34,3,3,Personal Auto,Offer3,Branch,691.2,Four-Door Car,Large
+California,2611.836866,Extended,College,Unemployed,M,0,Single,77,3,90,1,Corporate Auto,Offer4,Call Center,369.6,Two-Door Car,Medsize
