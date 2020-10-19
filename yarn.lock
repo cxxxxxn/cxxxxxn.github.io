@@ -2681,13 +2681,13 @@ core-js-pure@^3.0.0:
   version "3.6.4"
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.6.4.tgz#4bf1ba866e25814f149d4e9aaa08c36173506e3a"
 
-core-js@3, core-js@^3.5.0:
-  version "3.6.4"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.4.tgz#440a83536b458114b9cb2ac1580ba377dc470647"
-
 core-js@^2.4.0:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
+
+core-js@^3.5.0:
+  version "3.6.4"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.4.tgz#440a83536b458114b9cb2ac1580ba377dc470647"
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -5738,14 +5738,6 @@ markdown-escapes@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/markdown-escapes/-/markdown-escapes-1.0.4.tgz#c95415ef451499d7602b91095f3c8e8975f78535"
 
-markdown-navbar@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/markdown-navbar/-/markdown-navbar-1.4.0.tgz#cfa59ddbeec081444d05656713760162732a2b2d"
-  dependencies:
-    core-js "3"
-    prop-types "^15.7.2"
-    react "^16.12.0"
-
 marked@^0.8.2:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/marked/-/marked-0.8.2.tgz#4faad28d26ede351a7a1aaa5fec67915c869e355"
@@ -7599,7 +7591,7 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.12.0, react@^16.13.1:
+react@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   dependencies:

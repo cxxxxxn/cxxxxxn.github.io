@@ -67,7 +67,9 @@ export default class Navbar extends Component {
                         </div>
                     </Col>
                 </Row>
-                <Container content={this.state.content} noteIndex={this.state.noteIndex} changeNoteIndex={this.changeNoteIndex}/>
+                <Row>
+                    <Col xsOffset={1} xs={10}> <Container content={this.state.content} noteIndex={this.state.noteIndex} changeNoteIndex={this.changeNoteIndex}/> </Col>
+                </Row>
 			</div>
 		  );
 	}

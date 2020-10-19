@@ -11,7 +11,7 @@ export default class Cxxxxxn extends Component {
 		return (
 			<div className="Cxxxxxn">
 				<Row center="xs">
-      				<Col xs={12} md={10} lg={9}> 
+      				<Col xs={12} md={10} lg={8}> 
 					  	<Navbar/>
 						{/* <Container/> */}
 						<Footer/>

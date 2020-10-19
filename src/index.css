@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 300;
+  font-family: 'Roboto',"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -19,7 +19,7 @@ code {
 a {
   text-decoration: none;
 }
-a:link {
+/* a:link {
   text-decoration: none;
 }
 a:visited {
@@ -30,7 +30,7 @@ a:hover {
 }
 a:active {
   text-decoration: none;
-}
+} */
 
 /* main color */
 /* #ff9234

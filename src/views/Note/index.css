@@ -27,7 +27,6 @@
 .noteinfo-title{
     margin-top: 30px; 
     margin-bottom: 10px; 
-    color: #555;
 }
 
 .noteinfo-time{
@@ -41,4 +40,5 @@
     margin-top: 30px;
     padding-left:10px;
     padding-right: 10px;
+    color: #555;
 }

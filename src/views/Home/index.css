@@ -31,14 +31,17 @@
     height: 5vh;
 }
 
-.github{
+.icon-brand{
     cursor: pointer;
+    width: 30px;
+    margin-left: 15px;
+    margin-right: 15px;  
 }
 
-.github path{
+.icon-brand path{
     fill:#777;
 }
 
-.github path:hover{
+.icon-brand:hover path{
     fill: #ff9234;
 }

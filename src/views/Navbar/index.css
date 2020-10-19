@@ -4,8 +4,11 @@
 
 .navbar-brand{
     font-size: 18px;
-    padding: 6px 10px;
+    padding: 8px 14px;
     cursor: pointer;
+    font-family: FeiXiangDeNiaoErBeiChongChi;
+    font-weight: 600;
+    color: #777;
 }
 
 .nav-item{
