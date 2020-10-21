@@ -6,7 +6,15 @@ import Navbar from './views/Navbar';
 import Footer from './views/Footer';
 
 export default class Cxxxxxn extends Component {
+	constructor(props) {
+        super(props);
 
+        //sketch css
+        if ("paintWorklet" in CSS) {
+            CSS.paintWorklet.addModule(`${process.env.PUBLIC_URL}/sketch.js`);
+        }
+	}
+	
 	render(){
 		return (
 			<div className="Cxxxxxn">

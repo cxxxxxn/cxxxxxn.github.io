@@ -79,3 +79,16 @@
 .itsMe{
     font-weight: bolder;
 }
+
+/* small devices */
+@media only screen and (max-width: 767px) {
+    .projectinfo-img{
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    .projectinfo-words{
+        width: 96%;
+        margin-left: 2%;
+    }
+}

@@ -13,11 +13,16 @@ export default class Home extends Component {
                 <Row center="xs">
                     <img src={avatar} className="home-avatar" alt="avatar" />
                 </Row>
-                <div className="home-info home-name">Chen Nan</div>
-                <div className="home-info">Tongji University D&I</div>
-                <div className="home-info">Data Visualization</div>
-                <div className="home-block"></div>
-                <div className="home-info home-info-1">“Coding, Studing, Living”</div>
+                <div className="home-info home-name">Nan Chen</div>
+                {/* <div className="home-info">Tongji University</div> */}
+                {/* <div className="home-info">“Coding, Studing, Living”</div> */}
+                {/* <div className="home-block"></div> */}
+                <div className="home-info home-info-1">Welcome<span role="img" aria-label="hello">👋</span>, I am Nan Chen. </div>
+                <div className="home-info home-info-1">I received my Bachelor’s degree from School of Software Engineering, Tongji University in 2019. Now, I'm a master student in the College of Design and Innovation at Tongji University. I'm currently a member of 
+                    <a href="https://idvxlab.com/index.html" target="_blank" rel="noopener noreferrer"> iDVx Lab </a> 
+                    with the supervisor, 
+                    <a href="http://nancao.org/" target="_blank" rel="noopener noreferrer"> Prof. Nan Cao </a> . </div>
+                <div className="home-info home-info-1">My research interests focus on <b>Data Visualization</b> and <b>Data-driven Storytelling</b>.</div>
                 <div className="home-block"></div>
                 <div className="home-block"></div>
                 <div className="home-block"></div>

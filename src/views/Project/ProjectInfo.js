@@ -14,7 +14,7 @@ export default class ProjectInfo extends Component {
                         {authors.map((author, index) => {
                             let str = index !== authors.length - 1 ? author+", ": author;
                             if(author === itsMe){
-                                return <a href={homepageList[author]} className='itsMe projectinfo-author' key={author} >{str} </a>
+                                return <span className='itsMe projectinfo-author' key={author} >{str} </span>
                             }
                             return <a href={homepageList[author] || ''} className='projectinfo-author' key={author} target="_blank" rel="noopener noreferrer">{str} </a>
                         })}
