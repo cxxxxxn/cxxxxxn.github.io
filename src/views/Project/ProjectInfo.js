@@ -16,7 +16,7 @@ export default class ProjectInfo extends Component {
                             if(author === itsMe){
                                 return <span className='itsMe projectinfo-author' key={author} >{str} </span>
                             }
-                            return <a href={homepageList[author] || ''} className='projectinfo-author' key={author} target="_blank" rel="noopener noreferrer">{str} </a>
+                            return <a href={homepageList[author] || ''} className='projectinfo-author' key={author} target="_blank" rel="noopener noreferrer">{str}</a>
                         })}
                     </div>
                     <p className="projectinfo-desc">{desc}</p>

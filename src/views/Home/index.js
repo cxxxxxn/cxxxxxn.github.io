@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import {Row,} from 'react-flexbox-grid';
-import avatar from '../../imgs/avatar.jpg';
+import {Row} from 'react-flexbox-grid';
+import avatar from '../../imgs/avatar.jpg'; 
 
+import 'animate.css'
 import './index.css';
 
 export default class Home extends Component {
@@ -17,11 +18,11 @@ export default class Home extends Component {
                 {/* <div className="home-info">Tongji University</div> */}
                 {/* <div className="home-info">“Coding, Studing, Living”</div> */}
                 {/* <div className="home-block"></div> */}
-                <div className="home-info home-info-1">Welcome<span role="img" aria-label="hello">👋</span>, I am Nan Chen. </div>
+                <div className="home-info home-info-1"> <div className="animate__animated animate__shakeX animate__delay-1s">Welcome<span role="img" aria-label="hello">👋</span></div></div>
                 <div className="home-info home-info-1">I received my Bachelor’s degree from School of Software Engineering, Tongji University in 2019. Now, I'm a master student in the College of Design and Innovation at Tongji University. I'm currently a member of 
-                    <a href="https://idvxlab.com/index.html" target="_blank" rel="noopener noreferrer"> iDVx Lab </a> 
+                    <a href="https://idvxlab.com/index.html" target="_blank" rel="noopener noreferrer" className="bttn-minimal bttn-sm">iDVx Lab</a> 
                     with the supervisor, 
-                    <a href="http://nancao.org/" target="_blank" rel="noopener noreferrer"> Prof. Nan Cao </a> . </div>
+                    <a href="http://nancao.org/" target="_blank" rel="noopener noreferrer" className="bttn-minimal bttn-sm">Prof. Nan Cao</a> . </div>
                 <div className="home-info home-info-1">My research interests focus on <b>Data Visualization</b> and <b>Data-driven Storytelling</b>.</div>
                 <div className="home-block"></div>
                 <div className="home-block"></div>

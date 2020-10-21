@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Row, Col } from 'react-flexbox-grid';
 import './Cxxxxxn.css';
+import './libs/bttn.min.css'
 
 import Navbar from './views/Navbar';
 import Footer from './views/Footer';

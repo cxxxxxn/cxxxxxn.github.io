@@ -1,7 +1,7 @@
 .home-avatar{
-    width: 140px;
-    height: 140px;
-    border-radius: 70px; 
+    width: 150px;
+    height: 150px;
+    border-radius: 75px; 
     margin-top: 8vh;
     margin-bottom: 3vh;
 }
@@ -41,8 +41,8 @@
 
 .home-name{
     font-size: 30px;
-    color: #333; 
-    font-weight: 500;
+    color: #444; 
+    font-weight: 600;
     margin-bottom: 8vh;
 }
 
@@ -89,3 +89,8 @@
         margin-left: 12%; 
     }
 }
+
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }

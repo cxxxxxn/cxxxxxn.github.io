@@ -1,5 +1,5 @@
 .navbar{
-    margin-top: 6vh;
+    margin-top: 3vh;
 }
 
 .navbar-brand{
@@ -9,10 +9,12 @@
     font-family: FeiXiangDeNiaoErBeiChongChi;
     font-weight: 600;
     color: #777;
+    margin-top: 10px;
 }
 
 .nav-item{
-    padding:10px 15px;
+    margin:15px 8px;
+    padding: 0px; 
     color: #777;
     font-size: 16px;
     cursor: pointer;
@@ -23,17 +25,21 @@
 }
 
 .nav-toggle-vertical{
-    margin-right: -6px; 
+    /* margin-top: -10px;
+    margin-right: -6px;  */
+    /* height: 0px; */
+    background: rgba(255,255,255,0.92);
+    position: absolute;
+    right: 25px;
 }
 
 .nav-toggle-button{
     fill: #707070;
-    margin-top: 1px; 
+    margin-top: 15px; 
 }
 
 .nav-toggle-button:hover{
     fill: #ff9234;
-    margin-top: 1px; 
 }
 
 /* small devices */
