@@ -6,11 +6,20 @@
     font-size: 18px;
     padding: 8px 14px;
     cursor: pointer;
-    font-family: FeiXiangDeNiaoErBeiChongChi;
-    font-weight: 600;
-    color: #777;
-    margin-top: 10px;
+    font-family: Nav-brand;
+    font-weight: 800;
+    margin-top: 7px;
+    -webkit-text-stroke: 1px #444;
+    background: linear-gradient(#444 0 100%) left / 0 no-repeat;
+    color: transparent;
+    background-clip: text;
+    transition: 0.8s linear;
 }
+
+.navbar-brand:hover {
+    background-size: 100%;
+    -webkit-text-stroke: 1px #444;
+  }
 
 .nav-item{
     margin:15px 8px;
