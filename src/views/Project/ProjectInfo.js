@@ -9,7 +9,7 @@ export default class ProjectInfo extends Component {
 			<div className="projectinfo">
                 <img className="projectinfo-img" src={img} alt='title'></img>
                 <div className="projectinfo-words">
-                    <a className="projectinfo-title" target="_blank" href={url} rel="noopener noreferrer">{title}</a>
+                    <a className="projectinfo-title projectinfo-title-link" target="_blank" href={url} rel="noopener noreferrer">{title}</a>
                     <div className="projectinfo-authors">
                         {authors.map((author, index) => {
                             let str = index !== authors.length - 1 ? author+", ": author;

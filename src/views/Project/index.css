@@ -17,11 +17,12 @@
 .projectinfo:hover{
     border-color: #ff9234;
 }
-.projectinfo:hover .projectinfo-title{
+.projectinfo:hover .projectinfo-title-link{
     color: #ff9234;
     /* text-decoration-line: underline;
     text-decoration-style: wavy; */
 }
+
 /* .projectinfo:hover .projectinfo-time{
     color: #ffb385;
 } */
@@ -31,7 +32,7 @@
 
 .projectinfo-title{ 
     margin-bottom: 8px;
-    cursor: pointer;
+    /* cursor: pointer; */
     font-weight: 600;
     font-size: 1.17em;
     display: block;
@@ -49,6 +50,10 @@
     font-size: 14px;
     color: #777;
     margin-bottom: 8px;
+}
+
+.projectinfo-download{
+    text-decoration: underline !important;
 }
 
 .projectinfo-img{
@@ -70,7 +75,7 @@
     font-size: 16px;  
 }
 
-.projectinfo-author{
+.projectinfo-author a{
     cursor: pointer;
     color: black; 
     /* text-decoration: underline; */

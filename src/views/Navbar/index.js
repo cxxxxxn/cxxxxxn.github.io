@@ -46,11 +46,9 @@ export default class Navbar extends Component {
                     <Col xs={8} className="nav-container">
                         {/* small devices */}
                         <Row end="xs" className="nav-collapse">
-                            <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("project")}>
-                                PROJECT
-                            </Col>
-                            <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("note")}>NOTE</Col>
                             <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("home")}>HOME</Col>
+                            <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("project")}>PROJECT</Col>
+                            <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("note")}>NOTE</Col>
                         </Row>
                         {/* larger devices */}
                         <div className="nav-toggle">

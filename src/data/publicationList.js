@@ -8,6 +8,8 @@ const publicationList = [{
     'title': "Visual Causality Analysis of Event Sequence Data",
     'conference': "VIS 2020",
     'img': visualcausality,
+    'paper':'https://arxiv.org/abs/2009.00219',
+    'vedio':'https://www.youtube.com/watch?v=JWhyQxA7SEg',
     'authors': ['Zhuochen Jin', 'Shunan Guo', 'Nan Chen', 'Daniel Weiskopf', 'David Gotz', 'Nan Cao']
 },{
     'name': 'trammelgraph',

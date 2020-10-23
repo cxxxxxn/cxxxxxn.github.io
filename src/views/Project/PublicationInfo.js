@@ -24,8 +24,10 @@ export default class PublicationInfo extends Component {
                         })}
                     </div>
                     <p className="projectinfo-desc">{conference}</p>
-                    <a className="projectinfo-time" target="_blank" href={paper} rel="noopener noreferrer"> {paper?' Paper':'To Appear'}</a>
-                    <a className="projectinfo-time" target="_blank" href={vedio} rel="noopener noreferrer"> {vedio?' | Vedio':''} </a>
+                    <span className="projectinfo-time"> {paper?'':'To Appear'}</span>
+                    <a className="projectinfo-time projectinfo-download" target="_blank" href={paper} rel="noopener noreferrer"> {paper?' Paper':''}</a>
+                    <span className="projectinfo-time"> {vedio?' | ':''}</span>
+                    <a className="projectinfo-time projectinfo-download" target="_blank" href={vedio} rel="noopener noreferrer"> {vedio?' Vedio':''} </a>
                 </div>
 			</div>
 		  );
