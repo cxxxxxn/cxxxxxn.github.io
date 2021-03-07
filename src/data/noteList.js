@@ -1,4 +1,4 @@
-import js from './js.md';
+// import js from './js.md';
 import react_and_redux1 from './react_and_redux1.md';
 import react_and_redux2 from './react_and_redux2.md';
 import the_road_to_react1 from './the_road_to_react1.md';
@@ -12,14 +12,16 @@ const noteList = [{
     'time':'2020-4-14',
     'type':'React',
     'md':react_and_redux2
-},{
-    'name':'javascript',
-    'title':'JavaScript New To Me',
-    'desc': '关于js我还没完全掌握的知识。继续学习并巩固⛽️！',
-    'time':'2020-4-13',
-    'type':'JavaScript',
-    'md':js
-},{
+},
+// {
+//     'name':'javascript',
+//     'title':'JavaScript New To Me',
+//     'desc': '关于js我还没完全掌握的知识。继续学习并巩固⛽️！',
+//     'time':'2020-4-13',
+//     'type':'JavaScript',
+//     'md':js
+// },
+{
     'name':'react_and_redux1',
     'title':'深入浅出React和Redux 笔记（1）',
     'desc': '2-3节 （高质量的React组件、从Flux到React），初次接触react-redux。',

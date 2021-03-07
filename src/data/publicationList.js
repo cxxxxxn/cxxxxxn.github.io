@@ -16,6 +16,7 @@ const publicationList = [{
     'title': "TrammelGraph: Visual Graph Abstraction for Comparison",
     'conference': "ChinaVis 2020",
     'img': trammelgraph,
+    'paper':'https://link.springer.com/article/10.1007/s12650-020-00706-2',
     'authors': ['Zhuochen Jin', 'Nan Chen', 'Yang Shi', 'Weihong Qian', 'Maoran Xu', 'Nan Cao']
 },{
     'name': 'chartseq',

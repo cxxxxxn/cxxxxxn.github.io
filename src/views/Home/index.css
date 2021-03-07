@@ -30,6 +30,11 @@
     font-weight: 500; 
 }
 
+.home-info a:hover{
+    color: rgb(243, 191, 36);
+    font-weight: 500; 
+}
+
 .home-info-1{
     margin-top: 2vh;
     color: #aaa;
@@ -71,7 +76,7 @@
 }
 
 .icon-brand:hover path{
-    fill: #ff9234;
+    fill: rgb(243, 191, 36);
 }
 
 /* small devices */
