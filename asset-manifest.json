@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b9718eb.chunk.css",
-    "main.js": "/static/js/main.05bf6307.chunk.js",
-    "main.js.map": "/static/js/main.05bf6307.chunk.js.map",
+    "main.css": "/static/css/main.1bd4e107.chunk.css",
+    "main.js": "/static/js/main.8d9948b4.chunk.js",
+    "main.js.map": "/static/js/main.8d9948b4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef4c655a.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef4c655a.js.map",
     "static/css/2.bfb0f925.chunk.css": "/static/css/2.bfb0f925.chunk.css",
-    "static/js/2.e7878945.chunk.js": "/static/js/2.e7878945.chunk.js",
-    "static/js/2.e7878945.chunk.js.map": "/static/js/2.e7878945.chunk.js.map",
+    "static/js/2.6f09ffb8.chunk.js": "/static/js/2.6f09ffb8.chunk.js",
+    "static/js/2.6f09ffb8.chunk.js.map": "/static/js/2.6f09ffb8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bddd04763a4ca32449d0426b2fae0873.js": "/precache-manifest.bddd04763a4ca32449d0426b2fae0873.js",
+    "precache-manifest.d75cc7af00e7194d23bdc7f89b8b6ac7.js": "/precache-manifest.d75cc7af00e7194d23bdc7f89b8b6ac7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bfb0f925.chunk.css.map": "/static/css/2.bfb0f925.chunk.css.map",
-    "static/css/main.5b9718eb.chunk.css.map": "/static/css/main.5b9718eb.chunk.css.map",
-    "static/js/2.e7878945.chunk.js.LICENSE.txt": "/static/js/2.e7878945.chunk.js.LICENSE.txt",
+    "static/css/main.1bd4e107.chunk.css.map": "/static/css/main.1bd4e107.chunk.css.map",
+    "static/js/2.6f09ffb8.chunk.js.LICENSE.txt": "/static/js/2.6f09ffb8.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/static/media/avatar.52169d8d.jpg",
     "static/media/chartseq.png": "/static/media/chartseq.3a9c7af4.png",
     "static/media/ecosystem.png": "/static/media/ecosystem.9530b566.png",
     "static/media/hollow_man.png": "/static/media/hollow_man.7b3474e0.png",
-    "static/media/js.md": "/static/media/js.bd567757.md",
     "static/media/react_and_redux1.md": "/static/media/react_and_redux1.729f06c4.md",
     "static/media/react_and_redux2.md": "/static/media/react_and_redux2.d5b929dc.md",
     "static/media/the_road_to_react1.md": "/static/media/the_road_to_react1.9d43124a.md",
@@ -31,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.ef4c655a.js",
     "static/css/2.bfb0f925.chunk.css",
-    "static/js/2.e7878945.chunk.js",
-    "static/css/main.5b9718eb.chunk.css",
-    "static/js/main.05bf6307.chunk.js"
+    "static/js/2.6f09ffb8.chunk.js",
+    "static/css/main.1bd4e107.chunk.css",
+    "static/js/main.8d9948b4.chunk.js"
   ]
 }
