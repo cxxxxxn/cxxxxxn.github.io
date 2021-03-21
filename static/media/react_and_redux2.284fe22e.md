@@ -221,20 +221,3 @@ reselect库工作原理：只要相关状态没有改变，那就直接使用上
         {(user) => <Foo user={user} />}
     </AddUserProp>
 ```
-
-```javascript
-```
-```javascript
-```
-```javascript
-```
-```javascript
-```
-```javascript
-```
-```javascript
-```
-```javascript
-```
-```javascript
-```
