@@ -4,7 +4,7 @@ import './index.css';
 
 import Container from '../Container';
 
-export default class Navbar extends Component {
+export default class MainView extends Component {
 
     constructor(props){
         super(props);
@@ -40,8 +40,8 @@ export default class Navbar extends Component {
 
 	render(){
 		return (
-			<div className="navbar">
-                <Row start="xs">
+			<div>
+                <Row start="xs" className="navbar">
                     <Col xsOffset={1} xs={2} className="navbar-brand" onClick={()=>this.changeContent("home")}>CxxxxxN</Col>
                     <Col xs={8} className="nav-container">
                         {/* small devices */}
@@ -51,7 +51,7 @@ export default class Navbar extends Component {
                             <Col className="bttn-stretch bttn-sm nav-item" onClick={()=>this.changeContent("note")}>NOTE</Col>
                         </Row>
                         {/* larger devices */}
-                        <div className="nav-toggle">
+                        <nav className="nav-toggle">
                             <Row end="xs">
                                 <Col xs={12}>
                                 <svg className="nav-toggle-button" width="20" height="20"
@@ -64,7 +64,7 @@ export default class Navbar extends Component {
                                 <Row end="xs" className="nav-item" onClick={()=>this.changeContent("note")}>NOTE</Row>
                                 <Row end="xs" className="nav-item" onClick={()=>this.changeContent("home")}>HOME</Row>
                             </div>}
-                        </div>
+                        </nav>
                     </Col>
                 </Row>
                 <Row>

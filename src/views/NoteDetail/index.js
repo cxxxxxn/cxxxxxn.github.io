@@ -84,11 +84,14 @@ export default class NoteDetail extends Component {
                                 <Mnavbar source={content}></Mnavbar>
                             </div>
                         </Col>
-                        <Col xs={12} lg={9}
-                            className="article">
-                            <h2 className="article-title">{title}</h2>
-                            <p className="article-time">{time}</p>
-                            <Markdown source={content}></Markdown>
+                        <Col xs={12} lg={9}>
+                            <article className="article">
+                                <header>
+                                    <h2 className="article-title">{title}</h2>
+                                    <time className="article-time">{time}</time>
+                                </header>
+                                <Markdown source={content}></Markdown>
+                            </article>
                         </Col>
                     </Row>
                 </div>

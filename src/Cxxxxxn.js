@@ -3,7 +3,7 @@ import {Row, Col } from 'react-flexbox-grid';
 import './Cxxxxxn.css';
 import './libs/bttn.min.css'
 
-import Navbar from './views/Navbar';
+import MainView from './views/MainView';
 import Footer from './views/Footer';
 
 export default class Cxxxxxn extends Component {
@@ -21,10 +21,9 @@ export default class Cxxxxxn extends Component {
 			<div className="Cxxxxxn">
 				<Row center="xs">
       				<Col xs={12} md={10} lg={8}> 
-					  	<Navbar/>
-						{/* <Container/> */}
-						<Footer/>
-					</Col>
+                        <MainView/>
+                        <Footer/>
+                    </Col>
     			</Row>
 			</div>
 		  );
