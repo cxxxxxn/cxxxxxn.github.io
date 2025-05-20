@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {Row, Col } from 'react-flexbox-grid';
 import './index.css';
 
 import Mnavbar from './Mnavbar';
@@ -8,53 +7,53 @@ import Markdown from './Markdown';
 
 export default class NoteDetail extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
         this.content = React.createRef();
         this.state = {
-            content:"",
+            content: "",
             navbarStick: false
         };
     }
 
     componentDidMount() {
         fetch(this.props.note.md)
-          .then(res => res.text())
-          .then(text => this.setState({content: text}));
+            .then(res => res.text())
+            .then(text => this.setState({ content: text }));
 
         document.addEventListener('scroll', this.winScroll, false);
     }
 
-    componentDidUpdate(prevProps){
-        if(prevProps.note.name !== this.props.note.name){
+    componentDidUpdate(prevProps) {
+        if (prevProps.note.name !== this.props.note.name) {
             fetch(this.props.note.md)
                 .then(res => res.text())
-                .then(text => this.setState({content: text}));
+                .then(text => this.setState({ content: text }));
         }
     }
 
-    componentWillUnmount(){
+    componentWillUnmount() {
         document.removeEventListener('scroll', this.winScroll, false);
     }
 
-    winScroll = ()=>{
+    winScroll = () => {
         const scrollTop =
             window.pageYOffset ||
             document.documentElement.scrollTop ||
             document.body.scrollTop ||
             0;
 
-        if(scrollTop > 90){
+        if (scrollTop > 90) {
             this.setState((prevState) => {
-                if(!prevState.navbarStick){
+                if (!prevState.navbarStick) {
                     return {
                         navbarStick: true
                     }
                 }
             });
-        }else if(scrollTop < 90){
+        } else if (scrollTop < 90) {
             this.setState((prevState) => {
-                if(prevState.navbarStick){
+                if (prevState.navbarStick) {
                     return {
                         navbarStick: false
                     }
@@ -69,34 +68,30 @@ export default class NoteDetail extends Component {
     //     }
     //     return true;
     // }
-    
-    render(){
-        const {content} = this.state;
-        if(content){
-            const {title, time} = this.props.note;
-            const navbarClassName ="article-navbar big-device " + (this.state.navbarStick?"article-navbar-stick":null)
+
+    render() {
+        const { content } = this.state;
+        if (content) {
+            const { title, time } = this.props.note;
+            const navbarClassName = "article-navbar big-device " + (this.state.navbarStick ? "article-navbar-stick" : null)
             return (
                 <div className="noteDetail">
-                    <Row>
-                        <Col lg={3}>
-                            <div className={navbarClassName}>
-                                <h3 className="article-navbar-title">目 录</h3>
-                                <Mnavbar source={content}></Mnavbar>
-                            </div>
-                        </Col>
-                        <Col xs={12} lg={9}>
-                            <article className="article">
-                                <header>
-                                    <h2 className="article-title">{title}</h2>
-                                    <time className="article-time">{time}</time>
-                                </header>
-                                <Markdown source={content}></Markdown>
-                            </article>
-                        </Col>
-                    </Row>
+                    <div>
+                        <div className={navbarClassName}>
+                            <h3 className="article-navbar-title">目 录</h3>
+                            <Mnavbar source={content}></Mnavbar>
+                        </div>
+                        <article className="article">
+                            <header>
+                                <h2 className="article-title">{title}</h2>
+                                <time className="article-time">{time}</time>
+                            </header>
+                            <Markdown source={content}></Markdown>
+                        </article>
+                    </div>
                 </div>
-                );
-        }else{
+            );
+        } else {
             return <div></div>
         }
     }
