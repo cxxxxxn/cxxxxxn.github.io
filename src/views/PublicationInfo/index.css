@@ -1,83 +1,77 @@
-.project{
-    margin-top: 20px;
-    text-align: left;
-}
-
-.project h3{ 
-    font-weight: 400;
-}
-
-.projectinfo{
+.pulication-info{
     border: 1px solid #eee;
     padding: 10px;
     margin-bottom: 10px;
     cursor: default; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-.projectinfo:hover{
-    border-color: #ff9234;
+.pulication-info:hover{
+    border-color: rgb(243, 191, 36);
 }
-.projectinfo:hover .projectinfo-title-link{
-    color: #ff9234;
+.pulication-info:hover .pulication-info-title-link{
+    color: rgb(243, 191, 36);
     /* text-decoration-line: underline;
     text-decoration-style: wavy; */
 }
 
-/* .projectinfo:hover .projectinfo-time{
+/* .pulication-info:hover .pulication-info-time{
     color: #ffb385;
 } */
-.projectinfo:hover .projectinfo-desc{
+.pulication-info:hover .pulication-info-desc{
     color: #777;
 }
 
-.projectinfo-title{ 
+.pulication-info-title{ 
     margin-bottom: 8px;
     /* cursor: pointer; */
     font-weight: 600;
-    font-size: 1.17em;
+    font-size: 1.1em;
     display: block;
-    color: black;
+    color: #333;
 }
 
-.projectinfo-desc{
+.pulication-info-desc{
     margin-bottom: 10px; 
     margin-top: 0px; 
     color: #555;
 }
 
-.projectinfo-time{
+.pulication-info-time{
     margin-top: 0px; 
     font-size: 14px;
     color: #777;
     margin-bottom: 8px;
 }
 
-.projectinfo-download{
+.pulication-info-download{
     text-decoration: underline !important;
 }
 
-.projectinfo-img{
+.pulication-info-img{
     width: 13%;
     margin-left: 2%;
     object-fit: contain;
     display: inline-block;
 }
 
-.projectinfo-words{
+.pulication-info-words{
     width: 81%;
     margin-left: 2%;
     display: inline-block;
     vertical-align: top;
 }
 
-.projectinfo-authors{
+.pulication-info-authors{
     margin-bottom: 10px;
     font-size: 16px;  
+    color: #555; 
 }
 
-.projectinfo-author a{
+.pulication-info-author a{
     cursor: pointer;
-    color: black; 
     /* text-decoration: underline; */
 }
 
@@ -87,12 +81,12 @@
 
 /* small devices */
 @media only screen and (max-width: 767px) {
-    .projectinfo-img{
+    .pulication-info-img{
         width: 80%;
         margin-left: 10%;
     }
     
-    .projectinfo-words{
+    .pulication-info-words{
         width: 96%;
         margin-left: 2%;
     }
