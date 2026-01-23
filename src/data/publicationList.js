@@ -22,7 +22,6 @@ const publicationList = [{
     'conference': "CHI 2026",
     'img': copilot,
     'paper': 'https://arxiv.org/abs/2506.13270',
-    'code': 'https://github.com/microsoft/AskEase',
     'media': 'https://mp.weixin.qq.com/s/51yr4I4Xk1KomcsVBCM9MA',
     'authors': ['Nan Chen', 'Luna K. Qiu', 'Arran Zeyu Wang', 'Zilong Wang', 'Yuqing Yang']
 }, {
