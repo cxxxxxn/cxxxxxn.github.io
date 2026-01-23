@@ -53,7 +53,7 @@ export default class MainView extends Component {
 
                         <div className="home-info home-info-1"> <div className="animate__animated animate__shakeX">Welcome<span role="img" aria-label="hello">👋</span></div></div>
 
-                        <div className="home-info home-info-1"> I'm a Research SDE at Microsoft Research Asia (MSRA), focusing on human-computer interaction, <b>human-AI interaction</b>, and data visualization. My research explores how technologies like large language models can empower people, especially by advancing <b>accessibility</b>.</div>
+                        <div className="home-info home-info-1"> I'm a Research SDE at Microsoft Research Asia (MSRA), focusing on <b>human-AI interaction</b>. My research explores how emerging AI technologies can be shaped into human-centered tools that meaningfully empower people.</div>
 
                         <div className="home-info home-info-1"> I received my master's degree in AI and Data Design from Tongji University, under the supervision of <a href="http://nancao.org/" target="_blank" rel="noopener noreferrer">Prof. Nan Cao</a> at the <a href="https://idvxlab.com/" target="_blank" rel="noopener noreferrer">iDVX Lab</a>. Prior to that, I earned my bachelor's degree in Software Engineering from Tongji University. </div>
                     </section>

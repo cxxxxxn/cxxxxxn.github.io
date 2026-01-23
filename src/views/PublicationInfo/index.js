@@ -5,7 +5,7 @@ import {homepageList, itsMe} from '../../data/author'
 export default class PublicationInfo extends Component {
 
 	renderLink(label, url) {
-        return url ? (
+        return (url) ? (
             <>	
 				{
 					label === 'Paper' ? <span className="pulication-info-time"> {url?'':'To Appear'}</span> : <span className="pulication-info-time"> | </span>
@@ -23,7 +23,7 @@ export default class PublicationInfo extends Component {
     }
 
 	render(){
-        const {title, conference, img, authors, paper, vedio, code, media} = this.props.project;
+        const {title, conference, honor, img, authors, paper, vedio, code, media} = this.props.project;
 		return (
 			<div className="pulication-info">
                 <img className="pulication-info-img" src={img} alt='A figure in the paper'></img>
@@ -41,7 +41,7 @@ export default class PublicationInfo extends Component {
                             }
                         })}
                     </div>
-                    <p className="pulication-info-desc">{conference}</p>
+                    <p className="pulication-info-desc"><span className='conference-tag'>{conference}</span> <span>{honor}</span></p>
 
 					{this.renderLink('Paper', paper)}
 					{this.renderLink('Code', code)}
