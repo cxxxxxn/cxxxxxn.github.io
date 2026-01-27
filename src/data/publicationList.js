@@ -13,7 +13,7 @@ const publicationList = [{
     'title': "From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use",
     'conference': "CHI 2026",
     'img': askease,
-    // 'paper': 'https://arxiv.org/abs/2506.13270',
+    'paper': 'https://arxiv.org/abs/2601.18092',
     'code': 'https://github.com/microsoft/AskEase',
     'authors': ['Nan Chen', 'Jing Lu', 'Zilong Wang', 'Luna K. Qiu', 'Siming Chen', 'Yuqing Yang']
 },{
