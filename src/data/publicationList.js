@@ -7,8 +7,26 @@ import dseval from '../imgs/dseval.png';
 import askease from '../imgs/askease.png';
 import copilot from '../imgs/copilot.jpg';
 import calliopenet from '../imgs/calliopenet.png';
+import inkitiate from '../imgs/inkitiate.jpg';
+import malleableWorkspace from '../imgs/malleable-workspace.png';
 
 const publicationList = [{
+    'name': 'inkitiate',
+    'title': "Inkitiate: Initiating and Steering Agent Assistance through Ink in a Spatial Workspace",
+    'conference': "arXiv Preprint 2026",
+    'img': inkitiate,
+    'paper': 'https://arxiv.org/abs/2610.39905',
+    'code': 'https://github.com/microsoft/huabu',
+    'authors': ['Liangwei Wang', 'Nan Chen', 'Luna K. Qiu', 'Zilong Wang', 'Fugee Tsung', 'Yuyu Luo', 'Yuqing Yang']
+}, {
+    'name': 'malleable-workspace',
+    'title': "Working Through Representation: Malleable Workspaces for Human-Agent Knowledge Work",
+    'conference': "arXiv Preprint 2026",
+    'img': malleableWorkspace,
+    'paper': 'https://arxiv.org/abs/2610.30893',
+    'code': 'https://github.com/microsoft/huabu',
+    'authors': ['Nan Chen', 'Long Ling', 'Luna K. Qiu', 'Zilong Wang', 'Yuqing Yang']
+}, {
     'name': 'askease',
     'title': "From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use",
     'conference': "CHI 2026",
